@@ -1,0 +1,33 @@
+{
+    "name": "ai-agents",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.1",
+        "@emotion/styled": "^11.11.0",
+        "@mui/icons-material": "^5.14.13",
+        "@mui/material": "^5.14.11",
+        "@types/react-highlight-words": "^0.16.6",
+        "@types/react-syntax-highlighter": "^15.5.9",
+        "date-fns": "^2.30.0",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-highlight-words": "^0.20.0",
+        "react-syntax-highlighter": "^15.5.0"
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "eslint": "latest",
+        "eslint-config-next": "latest",
+        "typescript": "latest"
+    }
+}
