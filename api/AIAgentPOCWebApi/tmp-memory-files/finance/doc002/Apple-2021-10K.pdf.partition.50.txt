@@ -1,0 +1,64 @@
+arrears. The following table provides a summary of the Company’s term debt as of September 25, 2021 and September 26,
+2020:
+Maturities
+(calendar year)
+2021 2020
+Amount
+(in millions)
+Effective
+Interest Rate
+Amount
+(in millions)
+Effective
+Interest Rate
+2013 – 2020 debt issuances:
+Floating-rate notes 2022 $ 1,750 0.48% – 0.63% $ 2,250 0.60% – 1.39%
+Fixed-rate 0.000% – 4.650% notes 2022 – 2060 95,813 0.03% – 4.78% 103,828 0.03% – 4.78%
+Second quarter 2021 debt issuance:
+Fixed-rate 0.700% – 2.800% notes 2026 – 2061 14,000 0.75% – 2.81% —  — %
+Fourth quarter 2021 debt issuance:
+Fixed-rate 1.400% – 2.850% notes 2028 – 2061 6,500 1.43% – 2.86% —  — %
+Total term debt 118,063  106,078
+Unamortized premium/(discount) and issuance
+costs, net (380)  (314)
+Hedge accounting fair value adjustments 1,036  1,676
+Less: Current portion of term debt (9,613)  (8,773)
+Total non-current portion of term debt $ 109,106 $ 98,667
+To manage interest rate risk on certain of its U.S. dollar–denominated fixed- or floating-rate notes, the Company has entered into
+interest rate swaps to effectively convert the fixed interest rates to floating interest rates or the floating interest rates to fixed
+interest rates on a portion of these notes. Additionally, to manage foreign currency risk on certain of its foreign currency–
+denominated notes, the Company has entered into foreign currency swaps to effectively convert these notes to U.S. dollar–
+denominated notes.
+The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if
+applicable, adjustments related to hedging. The Company recognized $2.6 billion, $2.8 billion and $3.2 billion of interest expense
+on its term debt for 2021, 2020 and 2019, respectively.
+The future principal payments for the Company’s Notes as of September 25, 2021, are as follows (in millions):
+2022 $ 9,583
+2023 11,391
+2024 10,202
+2025 10,914
+2026 11,408
+Thereafter 64,565
+Total term debt $ 118,063
+As of September 25, 2021 and September 26, 2020, the fair value of the Company’s Notes, based on Level 2 inputs, was $125.3
+billion and $117.1 billion, respectively.
+Apple Inc. | 2021 Form 10-K | 45Note 8 – Shareholders’ Equity
+Share Repurchase Program
+As of September 25, 2021, the Company was authorized to purchase up to $315 billion of the Company’s common stock under a
+share repurchase program (the “Program”). During 2021, the Company repurchased 656 million shares of its common stock for
+$85.5 billion, including 36 million shares delivered under a $5.0 billion accelerated share repurchase agreement entered into in
+May 2021, bringing the total utilization under the Program to $254.1 billion as of September 25, 2021. The Program does not
+obligate the Company to acquire any specific number of shares. Under the Program, shares may be repurchased in privately
+negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”).
+Shares of Common Stock
+The following table shows the changes in shares of common stock for 2021, 2020 and 2019 (in thousands):
+2021 2020 2019
+Common stock outstanding, beginning balances 16,976,763  17,772,945  19,019,943
+Common stock repurchased (656,340)  (917,270)  (1,380,819)
+Common stock issued, net of shares withheld for employee taxes 106,363  121,088  133,821
+Common stock outstanding, ending balances 16,426,786  16,976,763  17,772,945
+Note 9 – Benefit Plans 2014 Employee Stock Plan
+The 2014 Employee Stock Plan (the “2014 Plan”) is a shareholder-approved plan that provides for broad-based equity grants to
+employees, including executive officers, and permits the granting of restricted stock units (“RSUs”), stock grants, performance-
+based awards, stock options and stock appreciation rights, as well as cash bonus awards. RSUs granted under the 2014 Plan

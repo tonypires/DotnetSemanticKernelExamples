@@ -1,0 +1,2297 @@
+{
+  "index": "finance",
+  "document_id": "doc002",
+  "execution_id": "595e952df48c44a89b2ab79ecf102d98",
+  "steps": [
+    "extract",
+    "partition",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "remaining_steps": [],
+  "completed_steps": [
+    "extract",
+    "partition",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "tags": {
+    "source": [
+      "web"
+    ],
+    "type": [
+      "finance"
+    ],
+    "collection": [
+      "apple",
+      "10k"
+    ]
+  },
+  "creation": "2023-10-19T19:26:26.6374089+00:00",
+  "last_update": "2023-10-19T19:27:03.8350918+00:00",
+  "files": [
+    {
+      "id": "bd3866fcfb524da4a6ab0276cae0fd32",
+      "name": "Apple-2021-10K.pdf",
+      "size": 789896,
+      "mime_type": "application/pdf",
+      "artifact_type": "Undefined",
+      "processed_by": [
+        "extract"
+      ],
+      "generated_files": {
+        "Apple-2021-10K.pdf.extract.txt": {
+          "id": "2696c1cf8f8249e3a500da4740faf8c8",
+          "name": "Apple-2021-10K.pdf.extract.txt",
+          "size": 295528,
+          "mime_type": "text/plain",
+          "artifact_type": "ExtractedText",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "extract",
+            "partition"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.0.txt": {
+          "id": "351a45ff0ea54550b72053428f0e4cde",
+          "name": "Apple-2021-10K.pdf.partition.0.txt",
+          "size": 3625,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "09ef4dbca07fb4f1c6141d8b40317b709114bc002c7ff958761184aecf470d91",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.1.txt": {
+          "id": "86ab752cff854d19ae68473a8415bff6",
+          "name": "Apple-2021-10K.pdf.partition.1.txt",
+          "size": 3628,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "7a553fa8621f44d1279380103a177efb27f3ac5af59c3b6b9957ee89d2ad8a2e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.2.txt": {
+          "id": "2d9a475eab8d4747983342b8f651d58c",
+          "name": "Apple-2021-10K.pdf.partition.2.txt",
+          "size": 3733,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "9c1139947859340eec3453395f41335500aeacf7af0ba6848b0df6c672d48a51",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.3.txt": {
+          "id": "664920b5bea74a82a56b904d6856794a",
+          "name": "Apple-2021-10K.pdf.partition.3.txt",
+          "size": 3794,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2d37f2448e661c9d8c6d035e57a0eacb483a61c403f7415f924bb7aaad9ab032",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.4.txt": {
+          "id": "e1752e3781a1412b8e8cff2b82b116dd",
+          "name": "Apple-2021-10K.pdf.partition.4.txt",
+          "size": 3662,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a094b6fa94485bde75269000cb109f40496f6afe1e2c97d0533fc3f6a9459e63",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.5.txt": {
+          "id": "04198579ac6343d3bd019d13f27c614d",
+          "name": "Apple-2021-10K.pdf.partition.5.txt",
+          "size": 3611,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "10eb149972a962d6f7392e8f096dbd06f2235d301093e3411042fceb16784fe3",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.6.txt": {
+          "id": "ea6593cfcf374c108288fa90ffb7e855",
+          "name": "Apple-2021-10K.pdf.partition.6.txt",
+          "size": 3750,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a357c34cfa8dbac83e4fdb6d243b5e67969dde99db7d37b9ec40cb04f47d3a84",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.7.txt": {
+          "id": "b75ada470d3f4e47aa9f31ed573df1c2",
+          "name": "Apple-2021-10K.pdf.partition.7.txt",
+          "size": 3673,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "545a1d24bf84c9673d672b3e35dcda37abdc9c815cf2a9fbeebc19626ba7aabb",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.8.txt": {
+          "id": "cdf155d70f6144c580955d206404a94a",
+          "name": "Apple-2021-10K.pdf.partition.8.txt",
+          "size": 3807,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "547adb299f7b801db4eca498f5d57da814268b0719b54d5c83eb7c2e5b3b829b",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.9.txt": {
+          "id": "1669993a5cc64126b1f270be22833ea6",
+          "name": "Apple-2021-10K.pdf.partition.9.txt",
+          "size": 3641,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "eccd1c6ae0e25953aeebe6425bf86377b66fdf80ba75c65679f23752a5ba7ebd",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.10.txt": {
+          "id": "4322a42a7b8b48a296b569cc1696fa88",
+          "name": "Apple-2021-10K.pdf.partition.10.txt",
+          "size": 3697,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "802b462b528973b3a3106ed6c50f43109bb596cba91fef7b5cade37b5f9b7e10",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.11.txt": {
+          "id": "977ceff834dd42dc94048d4621da4e5d",
+          "name": "Apple-2021-10K.pdf.partition.11.txt",
+          "size": 3832,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "5c13fe948354558475d640585f3b7539f3152bac9c4efcf08ebc15edd9534923",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.12.txt": {
+          "id": "7d9b0ae96afe4e42aa0e2cb8dfe327f9",
+          "name": "Apple-2021-10K.pdf.partition.12.txt",
+          "size": 3779,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "8b6c45dfc06538e114ce0d3f2356641d465012d89928d7b009039ae033c2bdaf",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.13.txt": {
+          "id": "f81660547a864de1b6758de6ffc9088c",
+          "name": "Apple-2021-10K.pdf.partition.13.txt",
+          "size": 3674,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a79852ff05582d4728b785f1e394057a4cec3c7339788e88dc8a9a2628e70d47",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.14.txt": {
+          "id": "1c3e41ac9aa14aaa8f643b15b06ebd4a",
+          "name": "Apple-2021-10K.pdf.partition.14.txt",
+          "size": 3717,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "152d4ee318f96e56d906e23667f5b94961431537a06a41618f6f2201da003465",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.15.txt": {
+          "id": "345ce81f46294d4ba959d8a357abe8ab",
+          "name": "Apple-2021-10K.pdf.partition.15.txt",
+          "size": 3651,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "8ed9757f6d00847de5177b97fa4da2e0b97f3e9585d334f4f58e16633ca95799",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.16.txt": {
+          "id": "02a8f49554f9404d99a6d794814adbc2",
+          "name": "Apple-2021-10K.pdf.partition.16.txt",
+          "size": 3732,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "62b10ce08d60796ae8f16fc1b42fcbe9aaebfb18a74da612a983fbf954dae128",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.17.txt": {
+          "id": "cded191d3e9f4b5a9b133246107d7b63",
+          "name": "Apple-2021-10K.pdf.partition.17.txt",
+          "size": 3643,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "297b4106921c2d3684c69313d645345e75e63bddbf3f83dfa3fb6a621f3373a9",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.18.txt": {
+          "id": "7c715f637d4040e38408c1148d502bdf",
+          "name": "Apple-2021-10K.pdf.partition.18.txt",
+          "size": 3512,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "65a9f26238827956761dac27ede929ddb3b60a7f9de74322e6ac9f8daf649833",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.19.txt": {
+          "id": "d7a6fdf7816a4f80bfa212fd0a41cb5d",
+          "name": "Apple-2021-10K.pdf.partition.19.txt",
+          "size": 3863,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "52a9362b7de83af267560b3a51cae35b0a0b606c66d656c23dd90478127525fa",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.20.txt": {
+          "id": "a38de7ab60474878bac67f86b96d1db2",
+          "name": "Apple-2021-10K.pdf.partition.20.txt",
+          "size": 3496,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "08c6a48ede7c771479b180ea3e9634e5d716535dcca38836b9de53a554e37686",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.21.txt": {
+          "id": "749fc99baca4445d8b4e1d96a13edd7c",
+          "name": "Apple-2021-10K.pdf.partition.21.txt",
+          "size": 3694,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "6f57868f95edcdc305dffc36acddaad5ce716a1050baf42239a69d164ce4d802",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.22.txt": {
+          "id": "7f9d5b896a894233b63291a3e4ea0d32",
+          "name": "Apple-2021-10K.pdf.partition.22.txt",
+          "size": 3756,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "996050f167fb407ca24aa6b304af2d0f3aeb4320dd8d72beefaec223715aeddc",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.23.txt": {
+          "id": "dd01b89f268b48b89c8b68e26fcf1913",
+          "name": "Apple-2021-10K.pdf.partition.23.txt",
+          "size": 3763,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "8b0119354d651b5c833c338476011fac83281f29b69791259b52e2df9e4d4d0e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.24.txt": {
+          "id": "8ae32a88cc7a4444a6c3909e6d88875a",
+          "name": "Apple-2021-10K.pdf.partition.24.txt",
+          "size": 3697,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "e717601040191b6276fc173a1e7ca76218f3f632251f15faa809e6fc53492660",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.25.txt": {
+          "id": "554ca32190044a73ad25878ceccd2e4d",
+          "name": "Apple-2021-10K.pdf.partition.25.txt",
+          "size": 3766,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "f3d76d2922de880f24dcffdc5d87658a61138db0386eb8c0acd9541dc2946905",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.26.txt": {
+          "id": "7c16b2fdbc9f427f9ca56c04df74b5a6",
+          "name": "Apple-2021-10K.pdf.partition.26.txt",
+          "size": 3897,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "ac93c6a2a857e6579b3a1b2917030286ae9711e100159e929e56f0bfd54e786f",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.27.txt": {
+          "id": "d15962c8223743118f0fa267c87d326c",
+          "name": "Apple-2021-10K.pdf.partition.27.txt",
+          "size": 3623,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "ed458d2b3563d2a81d08a4b4068b7faa1ba07715ce9e872a3b0b6b8e7c83f859",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.28.txt": {
+          "id": "ece9df21af684779af02493b29417009",
+          "name": "Apple-2021-10K.pdf.partition.28.txt",
+          "size": 3781,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "15b306e8da29b3bb32bec198ec4ab60cc5e5125fddf986c015421e58a4607a35",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.29.txt": {
+          "id": "89e4c690f196435ba442d68d866a4c1f",
+          "name": "Apple-2021-10K.pdf.partition.29.txt",
+          "size": 3710,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "e66ee39d9723f78536499db00f812e3b92a438cd5e17334249260d2378740287",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.30.txt": {
+          "id": "7ba68ca7f235497aae7a24ffd5783a0a",
+          "name": "Apple-2021-10K.pdf.partition.30.txt",
+          "size": 3532,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a873d9a39082cc75881669708da0d5348ef0111f554594e790169af12c2b351a",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.31.txt": {
+          "id": "cfee089f16c0462e993161888b14a418",
+          "name": "Apple-2021-10K.pdf.partition.31.txt",
+          "size": 3697,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "abc9e932c3ad77e0c43736da937b9a40fdbbb11b49ea7a26bf308606a410e680",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.32.txt": {
+          "id": "a2ab59fb37f244099a519b9adfa3d7b5",
+          "name": "Apple-2021-10K.pdf.partition.32.txt",
+          "size": 3703,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "7ffdf710665c9fb2a7236fc76631d86fae29c4dc8597d66f8042851043f31df3",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.33.txt": {
+          "id": "f5840b35ee06493a9100a5a40414792e",
+          "name": "Apple-2021-10K.pdf.partition.33.txt",
+          "size": 3617,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2f980b08e5e7dd4ca853f6552e7e15efc457c96409ee4349af843f4b3a1e98d1",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.34.txt": {
+          "id": "408968aa10284b828e077745c77cdc6c",
+          "name": "Apple-2021-10K.pdf.partition.34.txt",
+          "size": 3786,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "8081bb966b5bd1c85f587c86453430e1b568b6e192a2540aee6baeeb5692f328",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.35.txt": {
+          "id": "04c97d3b218b4a87b70a126720f87fe3",
+          "name": "Apple-2021-10K.pdf.partition.35.txt",
+          "size": 3734,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "dad85d7ae244e778016940601e3eae5c7aae44017aec2417601459c8d54d1084",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.36.txt": {
+          "id": "8ca3037b4c0a456b80d39bf8df89c918",
+          "name": "Apple-2021-10K.pdf.partition.36.txt",
+          "size": 3596,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "6297a49904292baddf3f427a0c3bbac9763b64f006fafb2a43eb8660089f620e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.37.txt": {
+          "id": "5fcbe1fc70cd4528a0351d75df49b715",
+          "name": "Apple-2021-10K.pdf.partition.37.txt",
+          "size": 3639,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "b62f7e024f8ba0870a9470b938f47aab3f6cbf1f16aedb384e4a2dcc73c48997",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.38.txt": {
+          "id": "9213ef823bb44a658af8ce8ffca0aa2c",
+          "name": "Apple-2021-10K.pdf.partition.38.txt",
+          "size": 3703,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "9976e4eb619e2e7a24706ed73612119ea19f2e0237bc26221cb940c34189456e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.39.txt": {
+          "id": "04a4efa2fdd64fe89b9a59617dd207dc",
+          "name": "Apple-2021-10K.pdf.partition.39.txt",
+          "size": 3827,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "5b683188612b4817dd55d1c286ae40c1d2ded99d03cbae112dc9017b53440c7a",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.40.txt": {
+          "id": "b52267fc4c554aa18f4a9b8f80fd5874",
+          "name": "Apple-2021-10K.pdf.partition.40.txt",
+          "size": 3595,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "396a090192ee3100267d6a47c9743f1b84ea4d87856151f9035b4051107707dc",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.41.txt": {
+          "id": "75ee8115da7b468aa4889ae6ee8c099c",
+          "name": "Apple-2021-10K.pdf.partition.41.txt",
+          "size": 3709,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "052d89f29b307fcb2f0c7fc50c1a2c7b88fae848f363ec609094763b8c6b62bf",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.42.txt": {
+          "id": "d1d81d8eaca147188d3da6926a1740cf",
+          "name": "Apple-2021-10K.pdf.partition.42.txt",
+          "size": 3649,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "b5ffd0b3e8fbf8ce2f45622429b358a97ce2a2fa8469ab4935fcd38423d07e6f",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.43.txt": {
+          "id": "06c8190834db4101909cb16f1f1398fe",
+          "name": "Apple-2021-10K.pdf.partition.43.txt",
+          "size": 3615,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "f7567e82bc7ef507ad1031eee7e4ac7966a17ee7f7ff7112b574dcd16915bc93",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.44.txt": {
+          "id": "80565d8fdc594243b4edfd75278d1537",
+          "name": "Apple-2021-10K.pdf.partition.44.txt",
+          "size": 3806,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "0172eafe0aa684b2a70e8452c6e39e362de3955cd6c5a2997388c1f7c0736568",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.45.txt": {
+          "id": "54a9a5d7a13e4bee89a1e5e44a46fdf8",
+          "name": "Apple-2021-10K.pdf.partition.45.txt",
+          "size": 3675,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "bd5950871928ae06c6fa505ef085981f99f37d09f55686089a5feab8e1e2f291",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.46.txt": {
+          "id": "f93db288ee064ef3b951160d899bdd54",
+          "name": "Apple-2021-10K.pdf.partition.46.txt",
+          "size": 3774,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "97c868afd1b79483d34ef1bcf69950c791f634e6785367143365b1df23219f2c",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.47.txt": {
+          "id": "4c46734a4afe4a2a9f7199f0387b8387",
+          "name": "Apple-2021-10K.pdf.partition.47.txt",
+          "size": 3805,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "78cdefe143ed26d712b4acc16bcabd1caae2c30d6395d4d327b18ff069de34ff",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.48.txt": {
+          "id": "a6ac1fc33d7543c6be2c9826073d7101",
+          "name": "Apple-2021-10K.pdf.partition.48.txt",
+          "size": 3828,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "f3c36a2eec014451ebaffbc2c5adebb491c4bc2006ec004ebbf9055ab85a399d",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.49.txt": {
+          "id": "fd330cb13d2f49839fcd9b1291909ffc",
+          "name": "Apple-2021-10K.pdf.partition.49.txt",
+          "size": 3568,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "96fe986fd1b4219fa8adca0e4fb211d3e6ff0821c879fb9fa5ffcbbeff289418",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.50.txt": {
+          "id": "b25ead695c8d4a0894b16a2a1022f208",
+          "name": "Apple-2021-10K.pdf.partition.50.txt",
+          "size": 3889,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "08c91d6059d8a67348ed7b47a49124180d2fc1e3e71418880afbe5ac4c1fd09c",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.51.txt": {
+          "id": "e9f097a20fe0410c899a6d413ec73db4",
+          "name": "Apple-2021-10K.pdf.partition.51.txt",
+          "size": 3592,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "9f56e94fd2f0672d178481e2b59dfa6200ae9c5383b62208e84b3e5402f3dfc5",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.52.txt": {
+          "id": "22ef987912d44f79858a0a59aa762923",
+          "name": "Apple-2021-10K.pdf.partition.52.txt",
+          "size": 3593,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2a6d7b9010e7a862019ccc2e39241a3cecd52cc66c94ce2af1b8e7d902f0b972",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.53.txt": {
+          "id": "ce12be73875d49cc8b0912e0c3ad13db",
+          "name": "Apple-2021-10K.pdf.partition.53.txt",
+          "size": 3756,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "c47dfd5b742010ae4ba5859131ded000b93dfbf011f4f70cb2c56ef8130fa174",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.54.txt": {
+          "id": "768433852566454abbe21cfcab58e335",
+          "name": "Apple-2021-10K.pdf.partition.54.txt",
+          "size": 3674,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "69cea156cd6effa3c5e52b93ebd5093ac3dff07f329841f0de78c6936921c642",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.55.txt": {
+          "id": "9330d5c69ec64e99b854bbec7849c226",
+          "name": "Apple-2021-10K.pdf.partition.55.txt",
+          "size": 3877,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "4140719a91405a2bb45b4e5b4756d00f3fb457ac108ed9714ed7dc11a16f3140",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.56.txt": {
+          "id": "e4fd53fcd2b54bc481dbbe25fef3b2d6",
+          "name": "Apple-2021-10K.pdf.partition.56.txt",
+          "size": 3912,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2ea2742c6a3015138867ab9364353f54df124ba6cdc5a006596da0ee2e8df829",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.57.txt": {
+          "id": "e39aa8aebcdb43eeb50c3b16020a6a05",
+          "name": "Apple-2021-10K.pdf.partition.57.txt",
+          "size": 3507,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "1051c5cb3fc9e4a44e06aef876f522a709518bc2e3b7f015507a8cde2851b402",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.58.txt": {
+          "id": "b18e2d5163b548668d2c9af40b3e70ea",
+          "name": "Apple-2021-10K.pdf.partition.58.txt",
+          "size": 3590,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "8376c09133650031624901074385449931fac15ac7a36855df203bb90c7ffb4a",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.59.txt": {
+          "id": "324ef75e6090460a90cb93852cd88a0c",
+          "name": "Apple-2021-10K.pdf.partition.59.txt",
+          "size": 3697,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "033b4b21eedfad30fa1780784d440fe970d29a7a4d69f1aafd13c52251328990",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.60.txt": {
+          "id": "965bd68ee3934acaa98b8143ff209277",
+          "name": "Apple-2021-10K.pdf.partition.60.txt",
+          "size": 3685,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2aa72b13f71f8f7a7e163591daabc5ee73855d53b0fcc95920e8c2aad4195969",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.61.txt": {
+          "id": "4ba0172ddf2947b3bfb5c9dfd2d54a5e",
+          "name": "Apple-2021-10K.pdf.partition.61.txt",
+          "size": 3545,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "23f8a3fecd7bea4af6c2d3116baf71bedb7ebc70e318d1434c2fd04a1fa9c7c4",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.62.txt": {
+          "id": "f96eb6d07f6a4234a9b58ae049d392a4",
+          "name": "Apple-2021-10K.pdf.partition.62.txt",
+          "size": 3622,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "1a5db49d13400ec07a75d28b55a453f741ca4bc73f4f9e6227edbfbc6a2e41d5",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.63.txt": {
+          "id": "b25e345584224129b280510bfe6132c1",
+          "name": "Apple-2021-10K.pdf.partition.63.txt",
+          "size": 3700,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "297b79e45ecdeb6ab17b272d0fefb08d253dd79fd63c2efe55651ecba087430a",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.64.txt": {
+          "id": "43f0441157eb4dd59056d0db2788715b",
+          "name": "Apple-2021-10K.pdf.partition.64.txt",
+          "size": 3626,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "3d708f4c1ce5d041d0c1751dcf5ddf980816427e6fb027225bbd3f7edb602c22",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.65.txt": {
+          "id": "65ace6251b9a43e58d5a78aec2f6d062",
+          "name": "Apple-2021-10K.pdf.partition.65.txt",
+          "size": 3786,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "305319392fee4deb61c6518b6c332dc01328838c210fc524bb6c873ca2d0f147",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.66.txt": {
+          "id": "514848580b7b4c34a73f1198e99a67f4",
+          "name": "Apple-2021-10K.pdf.partition.66.txt",
+          "size": 3842,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "fc1cbaea2869d4fedf26fdd267b28a531c8fd2e7510903f497aef03b3730045e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.67.txt": {
+          "id": "9029a743476f4aefb53dfbfd689f78ec",
+          "name": "Apple-2021-10K.pdf.partition.67.txt",
+          "size": 3578,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "40f8c6dd49ee4e34bd254cf02b89747529ab122849e895c7c76161e23abf6005",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.68.txt": {
+          "id": "ea9a60d3292c4bd68c483e09ea484747",
+          "name": "Apple-2021-10K.pdf.partition.68.txt",
+          "size": 3588,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "50f17741e04935738d7250212061537c8ef1580625977d0898f46fc31c3adade",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.69.txt": {
+          "id": "b14467e9fa42447a94c9e0ad75360897",
+          "name": "Apple-2021-10K.pdf.partition.69.txt",
+          "size": 3687,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "b58d578fe51999d4a2b5866df7160060e64f3789dd21e94a1b921bf8f45a9c23",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.70.txt": {
+          "id": "116979a8c2784f589bca49abca4ad171",
+          "name": "Apple-2021-10K.pdf.partition.70.txt",
+          "size": 3665,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "d9a0afcbbadc0e4a3301f58429c191a2f35ccd42c5b14f544e510486c41dde54",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.71.txt": {
+          "id": "bb3470b2cf944e73a4775117edb29eaf",
+          "name": "Apple-2021-10K.pdf.partition.71.txt",
+          "size": 3794,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "81273d0063b6b642a48e31aaf3ae7909f997a49119985c029e7191e7e300ce8d",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.72.txt": {
+          "id": "2d1a05e1272843db8abc4d812106c2c0",
+          "name": "Apple-2021-10K.pdf.partition.72.txt",
+          "size": 3560,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "56546ddb0b3baa5b91b383fe5b287fc3feebdb5f8cc899fd0708d0c1262a1adc",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.73.txt": {
+          "id": "a7cddd925dad4c3fa57c30edfad3eb5d",
+          "name": "Apple-2021-10K.pdf.partition.73.txt",
+          "size": 3779,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "c16ab8930d7a5af8a2b42b21f3a516f129c92759628424bc8eb0763856913f9f",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.74.txt": {
+          "id": "50e1d87b145742aa9d213f4f67b0dbae",
+          "name": "Apple-2021-10K.pdf.partition.74.txt",
+          "size": 3628,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "4ccac1afefa57c6b2944ba197a0916e086821228770e89babaf1f2ab4ba9cca5",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.75.txt": {
+          "id": "d3f9c5ad86cf485d8c7d31c7254392ab",
+          "name": "Apple-2021-10K.pdf.partition.75.txt",
+          "size": 3581,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "add88172d2c3cafdd1e96a3412050f4d04e9a0ddf5fd5c5d6c3eb34807fb0200",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.76.txt": {
+          "id": "273833da789147e599a18a4aa4512b00",
+          "name": "Apple-2021-10K.pdf.partition.76.txt",
+          "size": 3592,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "70a7882c9f4fef2572be2187640e9c07334dfc9027d1669e8754fe1c92dc01d7",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.77.txt": {
+          "id": "1d8cedf2337f4953a0e50d22df80eb62",
+          "name": "Apple-2021-10K.pdf.partition.77.txt",
+          "size": 3787,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "54d36b5453bf72ac9b6a811307af8d06aa22ea672559bd5fe13306ec877e6851",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.78.txt": {
+          "id": "5c8a03f305bc4217aa43b6d18c6af4ae",
+          "name": "Apple-2021-10K.pdf.partition.78.txt",
+          "size": 3786,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a210c9741e4626f69eb5a1a8ce77f1f155cbd522de86702e149f5e14e041a593",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.79.txt": {
+          "id": "e98e6216922b42758594f2464c9e9517",
+          "name": "Apple-2021-10K.pdf.partition.79.txt",
+          "size": 3631,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "a0cb57cbd9f5599ef63c7db83051d56c38e367b6be68f79ef3604c59f2547051",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.80.txt": {
+          "id": "1e8d85ae72074fbb8bacf2713295b0a8",
+          "name": "Apple-2021-10K.pdf.partition.80.txt",
+          "size": 3701,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "2b500ba49248053244a2b1bc6873841bd19b26a945055c4c33bea70429ebf475",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.81.txt": {
+          "id": "0169cbd71e4544a180453489995b9604",
+          "name": "Apple-2021-10K.pdf.partition.81.txt",
+          "size": 3620,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "9052be721f9f33e1b97d32e259ea55d0e79d4a1770816ab5dda62339f64708b2",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.82.txt": {
+          "id": "29937a78b5b44b338ef1e1a64af76c8c",
+          "name": "Apple-2021-10K.pdf.partition.82.txt",
+          "size": 3605,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "73475f790692e0a7739071161b0b990b21f854a346849b2395a49df0b00fa10c",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.83.txt": {
+          "id": "08a14139786a44d78da17a592d82332a",
+          "name": "Apple-2021-10K.pdf.partition.83.txt",
+          "size": 3693,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "ad8523edfc8bc9086c7d65594d247e5278349e2cf1cab37a3a6bc1363f3c4a5e",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.84.txt": {
+          "id": "fb6a09cbaf90410080bb706acc15e87f",
+          "name": "Apple-2021-10K.pdf.partition.84.txt",
+          "size": 3681,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "dcea6845b160bca3ff02fb39a15ec8e95684bfe2098fcc9e4fc8904b2d59a2e6",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.85.txt": {
+          "id": "361499697466440ab93267152423a082",
+          "name": "Apple-2021-10K.pdf.partition.85.txt",
+          "size": 1135,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "bd34e623b5a63a4edb411d15adb1530eed20495d92fa826338ce43f19132955a",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "8a871ffb9c7c4a4f887ef6a49c944486",
+          "name": "Apple-2021-10K.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19608,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.1.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "6cd63b2387284ee1afecf07e5e760478",
+          "name": "Apple-2021-10K.pdf.partition.1.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19641,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.2.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "034378794f6c48358645eb3918e30c8e",
+          "name": "Apple-2021-10K.pdf.partition.2.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19649,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.3.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "5c8f3334aab44d8ea658df18b2fc529e",
+          "name": "Apple-2021-10K.pdf.partition.3.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19610,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.4.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "4d6342a9cc584b8895f5cda4bd74dc2d",
+          "name": "Apple-2021-10K.pdf.partition.4.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19672,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.5.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "c43f8aa14b2a49ee851ef386c8ead03a",
+          "name": "Apple-2021-10K.pdf.partition.5.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19629,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.6.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "e954817e925c4206a5dbed4560d386fd",
+          "name": "Apple-2021-10K.pdf.partition.6.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19660,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.7.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b4f9e04c92ef46248e5ac77c45cdae71",
+          "name": "Apple-2021-10K.pdf.partition.7.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19662,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.8.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "86a681e1bdbe4a0fae4ffe39b9b54392",
+          "name": "Apple-2021-10K.pdf.partition.8.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19650,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.9.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "a28aa52b351946ff9d74ab48749d5451",
+          "name": "Apple-2021-10K.pdf.partition.9.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19671,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.10.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "817b492e06504310a5248e9cd8fd124b",
+          "name": "Apple-2021-10K.pdf.partition.10.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19624,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.11.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "7db64ddc7d3e42fba650d9f346f34378",
+          "name": "Apple-2021-10K.pdf.partition.11.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19691,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.12.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "5de397a0cc614031afc76c12b1fae2c1",
+          "name": "Apple-2021-10K.pdf.partition.12.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19647,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.13.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "07ce3e182a2d497eb60c66ec4b8a67bb",
+          "name": "Apple-2021-10K.pdf.partition.13.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19639,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.14.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "5513a0babe9f4147a3a800d4e47c5e2b",
+          "name": "Apple-2021-10K.pdf.partition.14.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19659,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.15.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "991c1b476112492ea6a664b1c529ca23",
+          "name": "Apple-2021-10K.pdf.partition.15.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19711,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.16.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "fbb8e7c9e9954015b3e2f77f867a9109",
+          "name": "Apple-2021-10K.pdf.partition.16.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19694,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.17.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "69b31b113e704246b1a5a4d5e8cd27b5",
+          "name": "Apple-2021-10K.pdf.partition.17.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19691,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.18.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b36308bcaa42487591bd71a7201870c4",
+          "name": "Apple-2021-10K.pdf.partition.18.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19665,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.19.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2bbeb5a04f824431a988ec11076760b1",
+          "name": "Apple-2021-10K.pdf.partition.19.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19649,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.20.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "0b6cbfc99b7b4bccbb490a46f9a0cceb",
+          "name": "Apple-2021-10K.pdf.partition.20.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19599,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.21.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "68d8fd724a424369b706df0eeae21422",
+          "name": "Apple-2021-10K.pdf.partition.21.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19634,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.22.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "a370aef2c1e249dba513ef3ffa5afa9a",
+          "name": "Apple-2021-10K.pdf.partition.22.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19662,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.23.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "6f9833ed3d304a3db1c404c1627e9fc4",
+          "name": "Apple-2021-10K.pdf.partition.23.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19707,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.24.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2a12824de49542029ba096ab1e956b57",
+          "name": "Apple-2021-10K.pdf.partition.24.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19609,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.25.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "1b5060695a084e51adee6eb0ceba4a6b",
+          "name": "Apple-2021-10K.pdf.partition.25.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19644,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.26.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "1c53dcbcb1504f93b41cea59f71cb527",
+          "name": "Apple-2021-10K.pdf.partition.26.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19631,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.27.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "4c8b465af274455288ac68b20a4944b0",
+          "name": "Apple-2021-10K.pdf.partition.27.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19594,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.28.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "671cd422b5954318bb75b9ec374c4826",
+          "name": "Apple-2021-10K.pdf.partition.28.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19625,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.29.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "c657b3bbd0a042f98c32e888ce6ba72a",
+          "name": "Apple-2021-10K.pdf.partition.29.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19614,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.30.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "0678a54d2691456d83239dd01a46af75",
+          "name": "Apple-2021-10K.pdf.partition.30.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19602,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.31.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2486a14fdb0245f99001c246fa335e9b",
+          "name": "Apple-2021-10K.pdf.partition.31.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19634,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.32.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "34ae95787c60419c99ac6a76c3c81f3a",
+          "name": "Apple-2021-10K.pdf.partition.32.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19622,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.33.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b75d1afe06334d77a091608f2027882d",
+          "name": "Apple-2021-10K.pdf.partition.33.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19577,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.34.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "87a23518dc7f4b938b4c5f1707d0914b",
+          "name": "Apple-2021-10K.pdf.partition.34.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19579,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.35.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "7a0612ec6db24bc0893325a66f1a12af",
+          "name": "Apple-2021-10K.pdf.partition.35.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19600,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.36.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "7d731f31397c4de3b6c3e5a169ffa99a",
+          "name": "Apple-2021-10K.pdf.partition.36.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19628,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.37.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "ae5455ba12cb429c94bbb3876e2343bb",
+          "name": "Apple-2021-10K.pdf.partition.37.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19626,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.38.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "0589910ef6604b849d389d2f787859a6",
+          "name": "Apple-2021-10K.pdf.partition.38.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19609,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.39.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "a88a7634f6f648eaa1790c3f93423f13",
+          "name": "Apple-2021-10K.pdf.partition.39.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19612,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.40.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "eae490755617446f8fd28f4bdf5ee51d",
+          "name": "Apple-2021-10K.pdf.partition.40.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19559,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.41.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "05b5cf8ca60f4a0cbb0bef166d8f537d",
+          "name": "Apple-2021-10K.pdf.partition.41.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19644,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.42.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "c192213ffeb14a9da001ce1018342fc3",
+          "name": "Apple-2021-10K.pdf.partition.42.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19674,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.43.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "adea30e445d349d199448a31e4bc8e4d",
+          "name": "Apple-2021-10K.pdf.partition.43.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19638,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.44.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "dcb07f400cf94f02a3504882fd5760ad",
+          "name": "Apple-2021-10K.pdf.partition.44.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19594,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.45.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "07fc25e839d44af9a1f2c6c7cb649427",
+          "name": "Apple-2021-10K.pdf.partition.45.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19618,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.46.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b2e0419d0ff141cda35c24f142d0a27b",
+          "name": "Apple-2021-10K.pdf.partition.46.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19652,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.47.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "a6b25c8696ee484fad3dc0f9d893bde1",
+          "name": "Apple-2021-10K.pdf.partition.47.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19587,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.48.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "d7132979122d43eaa63d886f058fd131",
+          "name": "Apple-2021-10K.pdf.partition.48.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19684,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.49.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "392e4b0b264a48719f9e2bfa76c280c2",
+          "name": "Apple-2021-10K.pdf.partition.49.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19585,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.50.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "64b6593356764d8f9896a311a5db00cd",
+          "name": "Apple-2021-10K.pdf.partition.50.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19627,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.51.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "ea57cbe03a38416ab4dadc83272dbb07",
+          "name": "Apple-2021-10K.pdf.partition.51.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19655,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.52.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "f147640dcb3d4720b089b82bd2b977f2",
+          "name": "Apple-2021-10K.pdf.partition.52.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19612,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.53.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "9102c451167f46ffba05afd01b80cd0c",
+          "name": "Apple-2021-10K.pdf.partition.53.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19641,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.54.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "6c8c54b4da8c4fe493ab30a2ff7e67b8",
+          "name": "Apple-2021-10K.pdf.partition.54.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19590,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.55.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "a108759b5ed147048780d02223154d16",
+          "name": "Apple-2021-10K.pdf.partition.55.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19644,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.56.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "261d7f13ba314a0f8f9eab396281d83e",
+          "name": "Apple-2021-10K.pdf.partition.56.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19632,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.57.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "5079425b555d46989dcf514be528ff99",
+          "name": "Apple-2021-10K.pdf.partition.57.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19593,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.58.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b03b30c84fb74ac1b918237db48b6089",
+          "name": "Apple-2021-10K.pdf.partition.58.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19636,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.59.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "8b90440430864cbd90bef9ab8865d1d4",
+          "name": "Apple-2021-10K.pdf.partition.59.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19620,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.60.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "e1e6deafbaa0409bb5b326d38dae6342",
+          "name": "Apple-2021-10K.pdf.partition.60.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19610,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.61.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "f2fd38a7f04c45cf99de8f850e21b223",
+          "name": "Apple-2021-10K.pdf.partition.61.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19648,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.62.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "38a19912370741fe9189f04fe62c03a5",
+          "name": "Apple-2021-10K.pdf.partition.62.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19596,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.63.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "992f8b71782f47e49fc390221d7c461a",
+          "name": "Apple-2021-10K.pdf.partition.63.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19621,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.64.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "68d6478330db4a248d1009de746389b2",
+          "name": "Apple-2021-10K.pdf.partition.64.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19638,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.65.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "6c6f12720fbc45858f09530f957e6996",
+          "name": "Apple-2021-10K.pdf.partition.65.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19607,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.66.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "82843e59b8b34b2e81c84712708321cf",
+          "name": "Apple-2021-10K.pdf.partition.66.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19635,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.67.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "d1593e95edec405db5691b4deb2445cb",
+          "name": "Apple-2021-10K.pdf.partition.67.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19650,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.68.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "626f95023dee45a496af313ef7c9ec37",
+          "name": "Apple-2021-10K.pdf.partition.68.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19596,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.69.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "1d14c20f59134c4992bad0dd46f23799",
+          "name": "Apple-2021-10K.pdf.partition.69.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19635,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.70.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "9e7cb67e88b744c7abeea21fcc0636e0",
+          "name": "Apple-2021-10K.pdf.partition.70.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19617,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.71.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2b0024534bda43d2bb6d023d85a7c19a",
+          "name": "Apple-2021-10K.pdf.partition.71.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19654,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.72.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b7e1033667944aafb31c3b72f1ff6c6c",
+          "name": "Apple-2021-10K.pdf.partition.72.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19599,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.73.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "903123c69af14636a1c9c14c42cb5489",
+          "name": "Apple-2021-10K.pdf.partition.73.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19609,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.74.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "b497c1fca5fb47f2a0633c5feaa9386f",
+          "name": "Apple-2021-10K.pdf.partition.74.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19602,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.75.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "560c40e4db30420cbbf90b1821e25b6f",
+          "name": "Apple-2021-10K.pdf.partition.75.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19695,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.76.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "55563aa00dd9482cbf0c445c24a3a67a",
+          "name": "Apple-2021-10K.pdf.partition.76.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19607,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.77.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "d1a5b80ac3cd48baa9131a6127662416",
+          "name": "Apple-2021-10K.pdf.partition.77.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19657,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.78.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "503e8b4b425740b49861c42c4cf9e356",
+          "name": "Apple-2021-10K.pdf.partition.78.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19658,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.79.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2d4cd92a883a4ead96a3f94eb02a9d74",
+          "name": "Apple-2021-10K.pdf.partition.79.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19636,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.80.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "3eeb7ae75125483291d16bb9b22dd2dd",
+          "name": "Apple-2021-10K.pdf.partition.80.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19667,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.81.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "fde03337dd734d0fa1160b7065584535",
+          "name": "Apple-2021-10K.pdf.partition.81.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19637,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.82.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "596584d387f04158a2d2eacbbea82d55",
+          "name": "Apple-2021-10K.pdf.partition.82.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19643,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.83.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "9d5046a33d7a45a38c8d92a6c47b1744",
+          "name": "Apple-2021-10K.pdf.partition.83.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19614,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.84.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2806e7170a5345d2acb90418bb98ee37",
+          "name": "Apple-2021-10K.pdf.partition.84.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19603,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "Apple-2021-10K.pdf.partition.85.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "d4676e55555f4a7fb09cc3b6d5da012f",
+          "name": "Apple-2021-10K.pdf.partition.85.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19615,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "bd3866fcfb524da4a6ab0276cae0fd32",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        }
+      }
+    }
+  ],
+  "custom_data": {},
+  "previous_executions_to_purge": []
+}

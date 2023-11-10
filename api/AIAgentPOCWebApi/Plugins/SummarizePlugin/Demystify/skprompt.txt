@@ -1,0 +1,5 @@
+==
+Explain the content to me as if I'm 5 years old.  Ensure a concise response.
+==
+
+{{$input}}

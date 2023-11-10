@@ -1,0 +1,32 @@
+Apple Inc. | 2021 Form 10-K | 35The Company presents derivative assets and liabilities at their gross fair values in the Consolidated Balance Sheets. The
+Company classifies cash flows related to derivative instruments as operating activities in the Consolidated Statements of Cash
+Flows.
+Fair Value Measurements
+The fair values of the Company’s money market funds and certain marketable equity securities are based on quoted prices in
+active markets for identical assets. The valuation techniques used to measure the fair value of the Company’s debt instruments
+and all other financial instruments, which generally have counterparties with high credit ratings, are based on quoted market
+prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
+Note 2 – Revenue Recognition
+Net sales consist of revenue from the sale of iPhone, Mac, iPad, Services and other products. The Company recognizes revenue
+at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is
+generally transferred when the Company has a present right to payment and title and the significant risks and rewards of
+ownership of products or services are transferred to its customers. For most of the Company’s Products net sales, control
+transfers when products are shipped. For the Company’s Services net sales, control transfers over time as services are
+delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or
+commencement of delivery of services, as applicable.
+The Company records reductions to Products net sales related to future product returns, price protection and other customer
+incentive programs based on the Company’s expectations and historical experience.
+For arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the
+Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (“SSPs”).
+When available, the Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are
+established that reflect the Company’s best estimates of what the selling prices of the performance obligations would be if they
+were sold regularly on a stand-alone basis. The Company’s process for estimating SSPs without observable prices considers
+multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation
+including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings,
+product-specific business objectives and the estimated cost to provide the performance obligation.
+The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone,
+Mac, iPad and certain other products. The first performance obligation, which represents the substantial portion of the allocated
+sales price, is the hardware and bundled software delivered at the time of sale. The second performance obligation is the right to
+receive certain product-related bundled services, which include iCloud®, Siri and Maps. The third performance obligation is the right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the software bundled with
+each device. The Company allocates revenue and any related discounts to these performance obligations based on their relative
+SSPs. Because the Company lacks observable prices for the undelivered performance obligations, the allocation of revenue is

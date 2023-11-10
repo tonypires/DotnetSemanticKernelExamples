@@ -1,0 +1,33 @@
+accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.
+Apple Inc. | 2021 Form 10-K | 2The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables
+and accessories, and services. The Company faces substantial competition in these markets from companies that have
+significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings
+with large customer bases. In addition, some of the Company’s competitors have broader product lines, lower-priced products
+and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut
+prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products
+at little or no profit or even at a loss. The Company’s services compete with business models that provide content to users for
+free and use illegitimate means to obtain third-party digital content and applications. The Company faces significant competition
+as competitors imitate the Company’s product features and applications within their products, or collaborate to offer integrated
+solutions that are more competitive than those they currently offer.
+Supply of Components
+Although most components essential to the Company’s business are generally available from multiple sources, certain
+components are currently obtained from single or limited sources. The Company also competes for various components with
+other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many
+components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide
+shortage and significant commodity pricing fluctuations.
+The Company uses some custom components that are not commonly used by its competitors, and new products introduced by
+the Company often utilize custom components available from only one source. When a component or product uses new
+technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have
+increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to
+concentrate on the production of common components instead of components customized to meet the Company’s requirements.
+The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the
+Company will be able to extend or renew these agreements on similar terms, or at all.
+Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in
+Asia, with some Mac computers manufactured in the U.S. and Ireland.
+Research and Development
+Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s
+ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products,
+services and technologies to the marketplace. The Company continues to develop new technologies to enhance existing
+products and services, and to expand the range of its offerings through research and development (“R&D”), licensing of intellectual property and acquisition of third-party businesses and technology.
+Intellectual Property
+The Company currently holds a broad collection of intellectual property rights relating to certain aspects of its hardware devices,

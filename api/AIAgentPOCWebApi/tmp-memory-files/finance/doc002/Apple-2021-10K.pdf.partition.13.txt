@@ -1,0 +1,30 @@
+Future operating results depend upon the Company’s ability to obtain components in sufficient quantities on
+commercially reasonable terms.
+Because the Company currently obtains certain components from single or limited sources, the Company is subject to significant
+supply and pricing risks. Many components, including those that are available from multiple sources, are at times subject to
+industry-wide shortages and significant commodity pricing fluctuations that can materially adversely affect the Company’s
+business, results of operations and financial condition. For example, the global semiconductor industry is experiencing high
+demand and shortages of supply, which has adversely affected, and could materially adversely affect, the Company’s ability to
+obtain sufficient quantities of components and products on commercially reasonable terms or at all. While the Company has
+entered into agreements for the supply of many components, there can be no assurance the Company will be able to extend or
+renew these agreements on similar terms, or at all. Component suppliers may suffer from poor financial conditions, which can
+lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company’s ability to obtain
+sufficient quantities of components on commercially reasonable terms or at all. The effects of global or regional economic
+conditions on the Company’s suppliers, described in “The Company’s operations and performance depend significantly on
+global and regional economic conditions and adverse economic conditions can materially adversely affect the Company’s
+business, results of operations and financial condition,” above, can also affect the Company’s ability to obtain components.
+Therefore, the Company remains subject to significant risks of supply shortages and price increases that can materially
+adversely affect its business, results of operations and financial condition.
+The Company’s new products often utilize custom components available from only one source. When a component or product
+uses new technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing
+capacities have increased. The continued availability of these components at acceptable prices, or at all, can be affected for any
+number of reasons, including if suppliers decide to concentrate on the production of common components instead of components
+customized to meet the Company’s requirements. When the Company’s supply of components for a new or existing product has
+been delayed or constrained, or when an outsourcing partner has delayed shipments of completed products to the Company, the
+Company’s business, results of operations and financial condition have been adversely affected and future delays or constraints
+could materially adversely affect the Company’s business, results of operations and financial condition. The Company’s business
+and financial performance could also be materially adversely affected depending on the time required to obtain sufficient
+quantities from the source, or to identify and obtain sufficient quantities from an alternative source.
+Apple Inc. | 2021 Form 10-K | 9The Company’s products and services may be affected from time to time by design and manufacturing defects that could
+materially adversely affect the Company’s business and result in harm to the Company’s reputation. The Company offers complex hardware and software products and services that can be affected by design and manufacturing
+defects. Sophisticated operating system software and applications, such as those offered by the Company, often have issues

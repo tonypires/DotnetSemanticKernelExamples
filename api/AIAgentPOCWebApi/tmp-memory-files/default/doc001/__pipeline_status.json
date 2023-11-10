@@ -1,0 +1,109 @@
+{
+  "index": "default",
+  "document_id": "doc001",
+  "execution_id": "92dbb20b400a4e2fa4c47deadd8d6142",
+  "steps": [
+    "extract",
+    "partition",
+    "gen_embeddings",
+    "save_embeddings",
+    "summarize",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "remaining_steps": [],
+  "completed_steps": [
+    "extract",
+    "partition",
+    "gen_embeddings",
+    "save_embeddings",
+    "summarize",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "tags": {},
+  "creation": "2023-10-12T20:50:48.230913+00:00",
+  "last_update": "2023-10-12T20:51:04.6297003+00:00",
+  "files": [
+    {
+      "id": "0cdcf466d870433c880f3a8030222ee4",
+      "name": "TheLastHope.pdf",
+      "size": 56338,
+      "mime_type": "application/pdf",
+      "artifact_type": "Undefined",
+      "processed_by": [
+        "extract"
+      ],
+      "generated_files": {
+        "TheLastHope.pdf.extract.txt": {
+          "id": "eff70fc5d20740b28b8ef55c1e324346",
+          "name": "TheLastHope.pdf.extract.txt",
+          "size": 1998,
+          "mime_type": "text/plain",
+          "artifact_type": "ExtractedText",
+          "parent_id": "0cdcf466d870433c880f3a8030222ee4",
+          "content_sha256": "",
+          "processed_by": [
+            "extract",
+            "partition",
+            "summarize"
+          ]
+        },
+        "TheLastHope.pdf.partition.0.txt": {
+          "id": "c72c9033f301448798ecd8caffe2c8b7",
+          "name": "TheLastHope.pdf.partition.0.txt",
+          "size": 1975,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "0cdcf466d870433c880f3a8030222ee4",
+          "content_sha256": "c9ca57544599badcf5e4b69ef1772dfaf4a7a66a4d2542bd008c91fb92fc63d2",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2f7b8749e1a241cfa25c7b158e0f9f8e",
+          "name": "TheLastHope.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19648,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "0cdcf466d870433c880f3a8030222ee4",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.summarize.0.txt": {
+          "id": "9ab24478768c426da0058b28982afe3c",
+          "name": "TheLastHope.pdf.summarize.0.txt",
+          "size": 519,
+          "mime_type": "text/plain",
+          "artifact_type": "SyntheticData",
+          "parent_id": "0cdcf466d870433c880f3a8030222ee4",
+          "content_sha256": "a4a45b794832ce77acd931893f2dca0cf4ad3d33efaf37af375492553dbb5a24",
+          "processed_by": [
+            "summarize",
+            "gen_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.summarize.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "e6bbeb08eb6f44cdacd04ae4f542cde6",
+          "name": "TheLastHope.pdf.summarize.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19614,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "0cdcf466d870433c880f3a8030222ee4",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        }
+      }
+    }
+  ],
+  "custom_data": {},
+  "previous_executions_to_purge": []
+}

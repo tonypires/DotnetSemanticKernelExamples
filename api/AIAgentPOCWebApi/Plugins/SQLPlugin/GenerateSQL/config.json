@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "type": "completion",
+  "description": "Generate SQL using T-SQL for SQL Server for a specific schema and users prompt.",
+  "completion": {
+    "max_tokens": 500,
+    "temperature": 0.0,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  },
+  "input": {
+    "parameters": [
+      {
+        "name": "schema",
+        "description": "The database schema.",
+        "defaultValue": ""
+      },
+      {
+        "name": "input",
+        "description": "The user's request.",
+        "defaultValue": ""
+      }
+    ]
+  }
+}

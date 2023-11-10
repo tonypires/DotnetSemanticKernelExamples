@@ -1,0 +1,31 @@
+products. The Company’s products and operating systems are subject to rapid technological change, and when third-party
+developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these
+changes to deliver improved customer experiences and can operate incorrectly and can result in dissatisfied customers.
+The Company distributes third-party applications for its products through the App Store. For the vast majority of applications,
+developers keep all of the revenue they generate on the App Store. The Company only retains a commission from sales of
+applications and sales of digital services or goods within an application. From time to time, the Company has made changes to
+its App Store, including actions taken in response to competition, market and legal conditions. The Company may make further
+business changes in the future. New legislative initiatives, such as the proposed European Union (“EU”) Digital Markets Act,
+could, if enacted, require further changes. The Company is also subject to litigation and investigations relating to the App Store,
+which have resulted in changes to the Company’s business practices, and may in the future result in further changes. These
+changes could include how and to what extent the Company charges developers for access to its platforms and manages
+distribution of apps outside of the App Store. This could reduce the volume of sales, and the commission that the Company
+earns on those sales, would decrease. If the rate of the commission that the Company retains on such sales is reduced, or if it is
+otherwise narrowed in scope or eliminated, the Company’s business, results of operations and financial condition could be
+materially adversely affected.
+Failure to obtain or create digital content that appeals to the Company’s customers, or to make such content available
+on commercially reasonable terms, could have a material adverse impact on the Company’s business, results of
+operations and financial condition.
+The Company contracts with numerous third parties to offer their digital content to customers. This includes the right to sell, or
+offer subscriptions to, third-party content, as well as the right to incorporate specific content into the Company’s own services.
+The licensing or other distribution arrangements for this content can be for relatively short time periods and do not guarantee the
+continuation or renewal of these arrangements on commercially reasonable terms, or at all. Some third-party content providers
+and distributors currently or in the future may offer competing products and services, and can take actions to make it difficult or
+impossible for the Company to license or otherwise distribute their content. Other content owners, providers or distributors may
+seek to limit the Company’s access to, or increase the cost of, such content. The Company may be unable to continue to offer a
+wide variety of content at commercially reasonable prices with acceptable usage rules.
+The Company also produces its own digital content, which can be costly to produce due to intense and increasing competition for
+talent, content and subscribers, and may fail to appeal to the Company’s customers. The COVID-19 pandemic has also caused
+additional restrictions on production and increased costs for digital content.
+Some third-party digital content providers require the Company to provide digital rights management and other security solutions. If requirements change, the Company may have to develop or license new technology to provide these solutions. There can be
+no assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner.

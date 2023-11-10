@@ -1,0 +1,32 @@
+If requirements change, the Company may have to develop or license new technology to provide these solutions. There can be
+no assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner.
+The Company’s success depends largely on the continued service and availability of highly skilled employees, including
+key personnel.
+Much of the Company’s future success depends on the continued availability and service of key personnel, including its Chief
+Executive Officer, executive team and other highly skilled employees. Experienced personnel in the technology industry are in
+high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company’s key personnel
+are located. The Company believes that its distinctive and inclusive culture is a significant driver of its success. If the Company is
+unable to nurture and maintain its culture, it could adversely affect the Company’s ability to recruit and retain highly skilled
+employees and materially adversely affect the Company’s business, results of operations and financial condition.
+The Company depends on the performance of carriers, wholesalers, retailers and other resellers.
+The Company distributes its products through cellular network carriers, wholesalers, retailers and resellers, many of whom
+distribute products from competing manufacturers. The Company also sells its products and resells third-party products in most
+of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government
+customers through its retail and online stores and its direct sales force.
+Some carriers providing cellular network service for the Company’s products offer financing, installment payment plans or
+subsidies for users’ purchases of the device. There can be no assurance such offers will be continued at all or in the same
+amounts.
+Apple Inc. | 2021 Form 10-K | 11The Company has invested and will continue to invest in programs to enhance reseller sales, including staffing selected
+resellers’ stores with Company employees and contractors, and improving product placement displays. These programs can
+require a substantial investment while not assuring return or incremental sales. The financial condition of these resellers could
+weaken, these resellers could stop distributing the Company’s products, or uncertainty regarding demand for some or all of the
+Company’s products could cause resellers to reduce their ordering and marketing of the Company’s products.
+The Company’s business and reputation are impacted by information technology system failures and network
+disruptions.
+The Company and its global supply chain are exposed to information technology system failures or network disruptions caused
+by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses,
+physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions. System redundancy
+and other continuity measures may be ineffective or inadequate, and the Company’s or its vendors’ business continuity and
+disaster recovery planning may not be sufficient for all eventualities. Such failures or disruptions can adversely impact the
+Company’s business by, among other things, preventing access to the Company’s online services, interfering with customer transactions or impeding the manufacturing and shipping of the Company’s products. These events could materially adversely
+affect the Company’s business, reputation, results of operations and financial condition.

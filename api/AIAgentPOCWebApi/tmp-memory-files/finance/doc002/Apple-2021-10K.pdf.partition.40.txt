@@ -1,0 +1,33 @@
+Inventories
+Inventories are measured using the first-in, first-out method.
+Property, Plant and Equipment
+Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets,
+which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and
+equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for
+leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the
+estimated useful lives of the assets, which range from five to seven years. Depreciation and amortization expense on property
+and equipment was $9.5 billion, $9.7 billion and $11.3 billion during 2021, 2020 and 2019, respectively.
+Noncash investing activities involving property, plant and equipment resulted in a net decrease to accounts payable and other
+current liabilities of $2.9 billion during 2019.
+Restricted Cash and Restricted Marketable Securities
+The Company considers cash and marketable securities to be restricted when withdrawal or general use is legally restricted. The
+Company reports restricted cash as other assets in the Consolidated Balance Sheets, and determines current or non-current
+classification based on the expected duration of the restriction. The Company reports restricted marketable securities as current
+or non-current marketable securities in the Consolidated Balance Sheets based on the classification of the underlying securities.
+Derivative Instruments and Hedging
+All derivative instruments are recorded in the Consolidated Balance Sheets at fair value. The accounting treatment for derivative
+gains and losses is based on intended use and hedge designation.
+Gains and losses arising from amounts that are included in the assessment of cash flow hedge effectiveness are initially deferred
+in accumulated other comprehensive income/(loss) (“AOCI”) and subsequently reclassified into earnings when the hedged
+transaction affects earnings, and in the same line item in the Consolidated Statements of Operations. For options designated as
+cash flow hedges, the Company excludes time value from the assessment of hedge effectiveness and recognizes it on a
+straight-line basis over the life of the hedge in the Consolidated Statements of Operations line item to which the hedge relates.
+Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.
+Gains and losses arising from amounts that are included in the assessment of fair value hedge effectiveness are recognized in
+the Consolidated Statements of Operations line item to which the hedge relates along with offsetting losses and gains related to
+the change in value of the hedged item. For foreign exchange forward contracts designated as fair value hedges, the Company
+excludes the forward carry component from the assessment of hedge effectiveness and recognizes it in OI&E on a straight-line
+basis over the life of the hedge. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are
+recognized in OCI.
+Gains and losses arising from changes in the fair values of derivative instruments that are not designated as accounting hedges
+are recognized in the Consolidated Statements of Operations line items to which the derivative instruments relate. Apple Inc. | 2021 Form 10-K | 35The Company presents derivative assets and liabilities at their gross fair values in the Consolidated Balance Sheets. The

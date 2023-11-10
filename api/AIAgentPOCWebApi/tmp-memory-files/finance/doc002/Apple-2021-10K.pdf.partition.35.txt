@@ -1,0 +1,34 @@
+instrument. A 100 basis point increase in market interest rates would cause interest expense on the Company’s debt as of
+September 25, 2021 and September 26, 2020 to increase by $186 million and $218 million on an annualized basis, respectively.
+Foreign Currency Risk
+In general, the Company is a net receiver of currencies other than the U.S. dollar. Accordingly, changes in exchange rates, and
+in particular a strengthening of the U.S. dollar, will negatively affect the Company’s net sales and gross margins as expressed in
+U.S. dollars. There is a risk that the Company will have to adjust local currency pricing due to competitive pressures when there
+has been significant volatility in foreign currency exchange rates.
+The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign
+exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future
+cash flows and net investments in foreign subsidiaries. In addition, the Company has entered, and in the future may enter, into
+foreign currency contracts to partially offset the foreign currency exchange gains and losses on its foreign currency–denominated
+debt issuances. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue
+and inventory purchases, typically for up to 12 months. However, the Company may choose not to hedge certain foreign
+exchange exposures for a variety of reasons including, but not limited to, accounting considerations or the prohibitive economic
+cost of hedging particular exposures.
+Apple Inc. | 2021 Form 10-K | 26To provide an assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative
+positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of
+fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands of random
+market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given
+confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. The VAR model
+is not intended to represent actual losses but is used as a risk estimation and management tool. Forecasted transactions, firm
+commitments and assets and liabilities denominated in foreign currencies were excluded from the model. Based on the results of
+the model, the Company estimates with 95% confidence, a maximum one-day loss in fair value of $550 million as of
+September 25, 2021, compared to a maximum one-day loss in fair value of $551 million as of September 26, 2020. Because the
+Company uses foreign currency instruments for hedging purposes, the losses in fair value incurred on those instruments are
+generally offset by increases in the fair value of the underlying exposures.
+Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ
+materially from the sensitivity analyses performed as of September 25, 2021 due to the inherent limitations associated with
+predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual
+exposures and positions.
+Apple Inc. | 2021 Form 10-K | 27Item 8. Financial Statements and Supplementary Data Index to Consolidated Financial Statements Page
+Consolidated Statements of Operations for the years ended September 25, 2021, September 26, 2020 and
+September 28, 2019 29
+Consolidated Statements of Comprehensive Income for the years ended September 25, 2021, September 26,

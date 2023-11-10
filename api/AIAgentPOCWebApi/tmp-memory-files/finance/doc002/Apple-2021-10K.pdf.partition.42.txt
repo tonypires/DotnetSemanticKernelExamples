@@ -1,0 +1,36 @@
+right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the software bundled with
+each device. The Company allocates revenue and any related discounts to these performance obligations based on their relative
+SSPs. Because the Company lacks observable prices for the undelivered performance obligations, the allocation of revenue is
+based on the Company’s estimated SSPs. Revenue allocated to the delivered hardware and bundled software is recognized
+when control has transferred to the customer, which generally occurs when the product is shipped. Revenue allocated to the
+product-related bundled services and unspecified software upgrade rights is deferred and recognized on a straight-line basis
+over the estimated period they are expected to be provided. Cost of sales related to delivered hardware and bundled software,
+including estimated warranty costs, are recognized at the time of sale. Costs incurred to provide product-related bundled
+services and unspecified software upgrade rights are recognized as cost of sales as incurred.
+For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For
+these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that
+any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized
+revenue, and has elected not to disclose amounts, related to these undelivered services.
+For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the
+Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when
+determining whether it obtains control of third-party products including, but not limited to, evaluating if it can establish the price of
+the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For
+third-party applications sold through the App Store and certain digital content sold through the Company’s other digital content
+stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company
+accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.
+The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities,
+with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
+Apple Inc. | 2021 Form 10-K | 36Deferred Revenue
+As of September 25, 2021 and September 26, 2020, the Company had total deferred revenue of $11.9 billion and $10.2 billion,
+respectively. As of September 25, 2021, the Company expects 64% of total deferred revenue to be realized in less than a year,
+26% within one-to-two years, 8% within two-to-three years and 2% in greater than three years.
+Disaggregated Revenue
+Net sales disaggregated by significant products and services for 2021, 2020 and 2019 were as follows (in millions):
+2021 2020 2019
+iPhone (1) $ 191,973 $ 137,781 $ 142,381
+Mac (1) 35,190  28,622  25,740
+iPad (1) 31,862  23,724  21,280
+Wearables, Home and Accessories (1)(2) 38,367  30,620  24,482
+Services (3) 68,425  53,768  46,291
+Total net sales (4) $ 365,817 $ 274,515 $ 260,174 (1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in
+the sales price of the respective product.

@@ -1,0 +1,30 @@
+or products, or not fully utilize firm purchase commitments.
+The Company relies on access to third-party intellectual property, which may not be available to the Company on
+commercially reasonable terms or at all.
+The Company’s products and services are designed to include intellectual property owned by third parties, which requires
+licenses from those third parties. In addition, because of technological changes in the industries in which the Company currently
+competes or in the future may compete, current extensive patent coverage and the rapid rate of issuance of new patents, the
+Company’s products and services may unknowingly infringe existing patents or intellectual property rights of others. From time to
+time, the Company has been notified that it may be infringing certain patents or other intellectual property rights of third parties.
+Based on experience and industry practice, the Company believes licenses to such third-party intellectual property can generally
+be obtained on commercially reasonable terms. However, there can be no assurance the necessary licenses can be obtained on
+commercially reasonable terms or at all. Failure to obtain the right to use third-party intellectual property, or to use such
+intellectual property on commercially reasonable terms, can preclude the Company from selling certain products or services, or
+otherwise have a material adverse impact on the Company’s business, results of operations and financial condition.
+The Company’s future performance depends in part on support from third-party software developers.
+The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party
+software applications and services. There can be no assurance third-party developers will continue to develop and maintain
+software applications and services for the Company’s products. If third-party software applications and services cease to be
+developed and maintained for the Company’s products, customers may choose not to buy the Company’s products.
+The Company believes the availability of third-party software applications and services for its products depends in part on the
+developers’ perception and analysis of the relative benefits of developing, maintaining and upgrading such software and services
+for the Company’s products compared to competitors’ platforms, such as Android for smartphones and tablets, Windows for
+personal computers and tablets, and PlayStation, Nintendo and Xbox for gaming platforms. This analysis may be based on
+factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected
+future growth of product sales, and the costs of developing such applications and services.
+Apple Inc. | 2021 Form 10-K | 10The Company’s minority market share in the global smartphone, personal computer and tablet markets can make developers
+less inclined to develop or upgrade software for the Company’s products and more inclined to devote their resources to
+developing and upgrading software for competitors’ products with larger market share. When developers focus their efforts on
+these competing platforms, the availability and quality of applications for the Company’s devices can suffer.
+The Company relies on the continued availability and development of compelling and innovative software applications for its products. The Company’s products and operating systems are subject to rapid technological change, and when third-party
+developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these

@@ -1,0 +1,34 @@
+have not been fully resolved. The outcome of litigation is inherently uncertain. When a loss related to a legal proceeding or claim
+is probable and reasonably estimable, the Company accrues its best estimate for the ultimate resolution of the matter. If one or
+more legal matters were resolved against the Company in a reporting period for amounts above management’s expectations, the
+Company’s financial condition and operating results for that reporting period could be materially adversely affected. In the
+opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a
+material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims, except for the
+following matters:
+VirnetX
+VirnetX, Inc. (“VirnetX”) filed a lawsuit against the Company alleging that certain of the Company’s products infringe on patents
+owned by VirnetX. On April 11, 2018, a jury returned a verdict against the Company in the U.S. District Court for the Eastern
+District of Texas (the “Eastern Texas District Court”). The Company appealed the verdict to the U.S. Court of Appeals for the
+Federal Circuit, which remanded the case back to the Eastern Texas District Court, where a retrial was held in October 2020.
+The jury returned a verdict against the Company and awarded damages of $503 million, which the Company has appealed. The
+Company has challenged the validity of the patents at issue in the retrial at the U.S. Patent and Trademark Office (the “PTO”),
+and the PTO has declared the patents invalid, subject to further appeal by VirnetX.
+iOS Performance Management Cases
+On April 5, 2018, several U.S. federal actions alleging violation of consumer protection laws, fraud, computer intrusion and other
+causes of action related to the Company’s performance management feature used in its iPhone operating systems, introduced to
+certain iPhones in iOS updates 10.2.1 and 11.2, were consolidated through a Multidistrict Litigation process into a single action in
+the U.S. District Court for the Northern District of California (the “Northern California District Court”). On February 28, 2020, the
+parties in the Multidistrict Litigation reached a settlement to resolve the U.S. federal and California state class actions. On March
+18, 2021, the Northern California District Court granted final approval of the Multidistrict Litigation settlement, which will result in
+an aggregate payment of $310 million to settle all claims. The Company continues to believe that its iPhones were not defective,
+that the performance management feature introduced with iOS updates 10.2.1 and 11.2 was intended to, and did, improve
+customers’ user experience, and that the Company did not make any misleading statements or fail to disclose any material
+information.
+French Competition Authority
+On March 16, 2020, the French Competition Authority (“FCA”) announced its decision that aspects of the Company’s sales and
+distribution practices in France violate French competition law, and issued a fine of €1.1 billion. The Company strongly disagrees
+with the FCA’s decision, and has appealed.
+Optis
+Optis Wireless Technology, LLC and related entities (“Optis”) filed a lawsuit in the U.S. District Court for the Eastern District of
+Texas against the Company alleging that certain of the Company’s products infringe on patents owned by Optis. On August 11, 2020, a jury returned a verdict against the Company and awarded damages. In post-trial proceedings, the damages portion of
+the verdict was set aside. A retrial on damages was held in August 2021 and the jury in that proceeding awarded damages of

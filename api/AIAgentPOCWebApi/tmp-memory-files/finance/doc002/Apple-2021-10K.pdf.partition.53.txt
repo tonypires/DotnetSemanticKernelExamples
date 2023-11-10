@@ -1,0 +1,44 @@
+Accrued Warranty and Guarantees
+The following table shows changes in the Company’s accrued warranties and related costs for 2021, 2020 and 2019 (in millions):
+2021 2020 2019
+Beginning accrued warranty and related costs $ 3,354 $ 3,570 $ 3,692
+Cost of warranty claims (2,674)  (2,956)  (3,857)
+Accruals for product warranty 2,684  2,740  3,735
+Ending accrued warranty and related costs $ 3,364 $ 3,354 $ 3,570
+The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the U.S.,
+the U.K. and China mainland. The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified
+amount when purchasing a new iPhone, provided certain conditions are met. The Company accounts for the trade-in right as a
+guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the
+guarantee liability recognized within net sales.
+Concentrations in the Available Sources of Supply of Materials and Product
+Although most components essential to the Company’s business are generally available from multiple sources, certain
+components are currently obtained from single or limited sources. The Company also competes for various components with
+other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many
+components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide
+shortage and significant commodity pricing fluctuations.
+The Company uses some custom components that are not commonly used by its competitors, and new products introduced by
+the Company often utilize custom components available from only one source. When a component or product uses new
+technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have
+increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to
+concentrate on the production of common components instead of components customized to meet the Company’s requirements.
+The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the
+Company will be able to extend or renew these agreements on similar terms, or at all.
+Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in
+Asia, with some Mac computers manufactured in the U.S. and Ireland.
+Unconditional Purchase Obligations
+The Company has entered into certain off–balance sheet commitments that require the future purchase of goods or services
+(“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of payments for
+content creation, Internet and telecommunications services and supplier arrangements. Future payments under noncancelable
+unconditional purchase obligations having a remaining term in excess of one year as of September 25, 2021, are as follows (in
+millions):
+2022 $ 4,551
+2023 2,165
+2024 984
+2025 405
+2026 51
+Thereafter 28
+Total $ 8,184
+Apple Inc. | 2021 Form 10-K | 48Contingencies
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. When a loss related to a legal proceeding or claim
+is probable and reasonably estimable, the Company accrues its best estimate for the ultimate resolution of the matter. If one or
+more legal matters were resolved against the Company in a reporting period for amounts above management’s expectations, the

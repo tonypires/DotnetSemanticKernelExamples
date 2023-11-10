@@ -1,0 +1,38 @@
+any series may rescind a declaration of acceleration and its consequences, if we have deposited certain sums with
+the trustee and all events of default with respect to the debt securities of such series, other than the non-payment of
+the principal or interest which have become due solely by such acceleration, have been cured or waived, as provided
+in the Indentures.
+An event of default for a particular series of debt securities does not necessarily constitute an event of
+default for any other series of debt securities issued under the Indentures.
+We are required to furnish the trustee annually within 120 days after the end of our fiscal year a statement
+by one of our officers to the effect that, to the best knowledge of such officer, we are not in default in the fulfillment of
+any of our obligations under the applicable Indenture or, if there has been a default in the fulfillment of any such
+obligation, specifying each such default and the nature and status thereof.
+No holder of any debt securities of any series will have any right to institute any judicial or other proceeding
+with respect to the applicable Indenture, or for the appointment of a receiver or trustee, or for any other remedy
+unless:
+(1) an event of default has occurred and is continuing and such holder has given the trustee prior written
+notice of such continuing event of default with respect to the debt securities of such series;
+10(2) in the case of the 2013 Indenture, the holders of not less than 25% of the aggregate principal amount of
+the outstanding debt securities of such series, and in the case of the 2018 Indenture, the holders of not
+less than 33% of the aggregate principal amount of the outstanding debt securities of such series have
+requested the trustee to institute proceedings in respect of such event of default;
+(3) the trustee has been offered indemnity reasonably satisfactory to it against its costs, expenses and
+liabilities in complying with such request;
+(4) the trustee has failed to institute proceedings 60 days after the receipt of such notice, request and offer
+of indemnity; and
+(5) no direction inconsistent with such written request has been given for 60 days by the holders of a
+majority in aggregate principal amount of the outstanding debt securities of such series.
+The holders of a majority in aggregate principal amount of outstanding debt securities of a series will have
+the right, subject to certain limitations, to direct the time, method and place of conducting any proceeding for any
+remedy available to the trustee with respect to the debt securities of that series or exercising any trust or power
+conferred to the trustee, and to waive certain defaults. Each of the Indentures provides that if an event of default
+occurs and is continuing, the trustee will exercise such of its rights and powers under such Indenture, and use the
+same degree of care and skill in their exercise, as a prudent person would exercise or use under the circumstances in
+the conduct of such person’s own affairs. Subject to such provisions, the trustee will be under no obligation to
+exercise any of its rights or powers under the applicable Indenture at the request of any of the holders of the debt
+securities of a series unless they will have offered to the trustee security or indemnity satisfactory to the trustee
+against the costs, expenses and liabilities which might be incurred by it in compliance with such request.
+Notwithstanding the foregoing, the holder of any debt security will have an absolute and unconditional right to receive payment of the principal of and premium, if any, and interest on that debt security on or after the due dates
+expressed in that debt security and to institute suit for the enforcement of payment.
+Modification and Waivers

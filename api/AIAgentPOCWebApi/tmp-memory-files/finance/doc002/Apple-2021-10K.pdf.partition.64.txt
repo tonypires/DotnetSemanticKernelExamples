@@ -1,0 +1,67 @@
+10.8* Form of Restricted Stock Unit Award Agreement under Non-Employee Director
+Stock Plan effective as of February 13, 2018.
+10-Q 10.2 3/31/18
+10.9* Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock
+Plan effective as of August 21, 2018.
+10-K 10.17 9/29/18
+10.10* Form of Performance Award Agreement under 2014 Employee Stock Plan
+effective as of August 21, 2018.
+10-K 10.18 9/29/18
+10.11* Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock
+Plan effective as of September 29, 2019.
+10-K 10.15 9/28/19
+10.12* Form of Performance Award Agreement under 2014 Employee Stock Plan
+effective as of September 29, 2019.
+10-K 10.16 9/28/19
+10.13* Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock
+Plan effective as of August 18, 2020.
+10-K 10.16 9/26/20
+10.14* Form of Performance Award Agreement under 2014 Employee Stock Plan
+effective as of August 18, 2020.
+10-K 10.17 9/26/20
+10.15* Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee
+Stock Plan effective as of September 27, 2020.
+10-Q 10.1 1/28/21
+10.16* Form of CEO Performance Award Agreement under 2014 Employee Stock Plan
+effective as of September 27, 2020.
+10-Q 10.2 1/28/21
+21.1** Subsidiaries of the Registrant.
+23.1** Consent of Independent Registered Public Accounting Firm.
+24.1** Power of Attorney (included on the Signatures page of this Annual Report on
+Form 10-K).
+31.1** Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2** Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+101** Inline XBRL Document Set for the consolidated financial statements and
+accompanying notes in Part II, Item 8, “Financial Statements and
+Supplementary Data” of this Annual Report on Form 10-K.
+104** Inline XBRL for the cover page of this Annual Report on Form 10-K, included in
+the Exhibit 101 Inline XBRL Document Set.
+Incorporated by Reference
+Exhibit
+Number Exhibit Description Form Exhibit
+Filing Date/
+Period End
+Date
+* Indicates management contract or compensatory plan or arrangement.
+** Filed herewith.
+*** Furnished herewith.
+(1) Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item
+601(b)(4)(iii) of Regulation S-K. The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such
+instruments.
+Item 16. Form 10-K Summary
+None.
+Apple Inc. | 2021 Form 10-K | 59SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Date: October 28, 2021 Apple Inc.
+By: /s/ Luca Maestri
+Luca Maestri
+Senior Vice President,
+Chief Financial Officer
+Power of Attorney
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints
+Timothy D. Cook and Luca Maestri, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him
+or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits
+thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons

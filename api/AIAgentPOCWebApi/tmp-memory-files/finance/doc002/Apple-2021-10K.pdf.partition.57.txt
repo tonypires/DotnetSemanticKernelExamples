@@ -1,0 +1,43 @@
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall
+presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was
+communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are
+material to the financial statements and (2)  involved our especially challenging, subjective, or complex judgments. The
+communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole,
+and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on
+the account or disclosure to which it relates.
+Uncertain Tax Positions
+Description of the Matter As discussed in Note 5 to the financial statements, Apple Inc. is subject to taxation and files
+income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions.
+As of September 25, 2021, the total amount of gross unrecognized tax benefits was $15.5
+billion, of which $6.6 billion, if recognized, would impact Apple Inc.’s effective tax rate. Apple
+Inc. uses significant judgment in the calculation of tax liabilities in estimating the impact of
+uncertainties in the application of technical merits and complex tax laws.
+Auditing management’s evaluation of whether an uncertain tax position is more likely than
+not to be sustained and the measurement of the benefit of various tax positions can be
+complex, involves significant judgment, and is based on interpretations of tax laws and legal
+rulings.
+Apple Inc. | 2021 Form 10-K | 52How We Addressed the
+Matter in Our Audit
+We tested controls relating to the evaluation of uncertain tax positions, including controls
+over management’s assessment as to whether tax positions are more likely than not to be
+sustained, management’s process to measure the benefit of its tax positions, and the
+development of the related disclosures.
+To evaluate Apple Inc.’s assessment of which tax positions are more likely than not to be
+sustained, our audit procedures included, among others, reading and evaluating
+management’s assumptions and analysis, and, as applicable, Apple Inc.’s communications
+with taxing authorities, that detailed the basis and technical merits of the uncertain tax
+positions. We involved our tax subject matter resources in assessing the technical merits of
+certain of Apple Inc.’s tax positions based on our knowledge of relevant tax laws and
+experience with related taxing authorities. For certain tax positions, we also received
+external legal counsel confirmation letters and discussed the matters with external advisors
+and Apple Inc. tax personnel. In addition, we evaluated Apple Inc.’s disclosure in relation to
+these matters included in Note 5 to the financial statements.
+/s/ Ernst & Young LLP
+We have served as Apple Inc.’s auditor since 2009.
+San Jose, California
+October 28, 2021
+Apple Inc. | 2021 Form 10-K | 53Report of Independent Registered Public Accounting Firm
+To the Shareholders and the Board of Directors of Apple Inc. Opinion on Internal Control Over Financial Reporting
+We have audited Apple Inc.’s internal control over financial reporting as of September 25, 2021, based on criteria established in

@@ -1,0 +1,37 @@
+with or that has expressly been included in the applicable Indenture solely for the benefit of a series of
+debt securities other than such series), which continues for a period of 90 days after written notice to us
+by the trustee or to us and the trustee by the holders of, in the case of the 2013 Indenture, at least 25%
+in aggregate principal amount of the outstanding debt securities of that series, and in the case of the
+2018 Indenture, at least 33% in aggregate principal amount of the outstanding debt securities of that
+series;
+(4) we, pursuant to or within the meaning of the Bankruptcy Law:
+• commence a voluntary case or proceeding;
+• consent to the entry of an order for relief against us in an involuntary case or proceeding;
+9• consent to the appointment of a custodian of us or for all or substantially all of our property;
+• make a general assignment for the benefit of our creditors;
+• file a petition in bankruptcy or answer or consent seeking reorganization or relief;
+• consent to the filing of such petition or the appointment of or taking possession by a custodian; or
+• take any comparable action under any foreign laws relating to insolvency;
+(5) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+• is for relief against us in an involuntary case, or adjudicates us insolvent or bankrupt;
+• appoints a custodian of us or for all or substantially all of our property; or
+• orders the winding-up or liquidation of us (or any similar relief is granted under any foreign laws);
+and the order or decree remains unstayed and in effect for 90 days (or, in the case of the 2018
+Indenture, 90 consecutive days); or
+(6) any other event of default provided with respect to debt securities of such series occurs.
+“Bankruptcy Law” means Title 11, United States Code or any similar federal or state or foreign law for the
+relief of debtors. “Custodian” means any custodian, receiver, trustee, assignee, liquidator or other similar official
+under any Bankruptcy Law.
+If an event of default with respect to debt securities of any series (other than an event of default relating to
+certain events of bankruptcy, insolvency, or reorganization of us) occurs and is continuing, the trustee by notice to us,
+or the holders of, in the case of the 2013 Indenture, at least 25% in aggregate principal amount of the outstanding
+debt securities of such series, and in the case of the 2018 Indenture, at least 33% in aggregate principal amount of
+the outstanding debt securities of such series, by notice to us and the trustee, may, and the trustee at the request of
+these holders will, declare the principal of and premium, if any, and accrued and unpaid interest on all the debt
+securities of such series to be due and payable. Upon such a declaration, such principal, premium and accrued and
+unpaid interest will be due and payable immediately. If an event of default relating to certain events of bankruptcy,
+insolvency, or reorganization of us occurs and is continuing, the principal of and premium, if any, and accrued and
+unpaid interest on the debt securities of such series will become and be immediately due and payable without any
+declaration or other act on the part of the trustee or any holders.
+The holders of not less than a majority in aggregate principal amount of the outstanding debt securities of any series may rescind a declaration of acceleration and its consequences, if we have deposited certain sums with
+the trustee and all events of default with respect to the debt securities of such series, other than the non-payment of

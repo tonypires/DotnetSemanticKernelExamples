@@ -1,0 +1,40 @@
+• restrict us from paying dividends or making distributions on our capital stock or purchasing or redeeming
+our capital stock.
+8Consolidation, Merger and Sale of Assets
+The Indentures provide that we may consolidate with or merge with or into any other person, and may sell,
+transfer, or lease or convey all or substantially all of our properties and assets to another person; provided that the
+following conditions are satisfied:
+• we are the continuing entity, or the resulting, surviving or transferee person (the “Successor”) is a
+person (if such person is not a corporation, then the Successor will include a corporate co-issuer of the
+debt securities) organized and existing under the laws of the United States of America, any state thereof
+or the District of Columbia and the Successor (if not us) will expressly assume, by supplemental
+indenture, all of our obligations under the debt securities and the applicable Indenture and, for each
+security that by its terms provides for conversion, provide for the right to convert such security in
+accordance with its terms;
+• immediately after giving effect to such transaction, no default or event of default under the applicable
+Indenture has occurred and is continuing; and
+• in the case of the 2013 Indenture, the trustee receives from us an officers’ certificate and an opinion of
+counsel that the transaction and such supplemental indenture, as the case may be, complies with the
+applicable provisions of the 2013 Indenture.
+If we consolidate or merge with or into any other person or sell, transfer, lease or convey all or substantially
+all of our properties and assets in accordance with the Indentures, the Successor will be substituted for us in the
+Indentures, with the same effect as if it had been an original party to the Indentures. As a result, the Successor may
+exercise our rights and powers under the Indentures, and we will be released from all our liabilities and obligations
+under the Indentures and under the debt securities.
+For purposes of this covenant, “person” means any individual, corporation, partnership, limited liability
+company, joint venture, association, joint-stock company, trust, unincorporated organization or government or any
+agency or political subdivision thereof or any other entity.
+Events of Default
+Each of the following events are defined in the Indentures as an “event of default” (whatever the reason for
+such event of default and whether or not it will be voluntary or involuntary or be effected by operation of law or
+pursuant to any judgment, decree or order of any court or any order, rule or regulation of any administrative or
+governmental body) with respect to the debt securities of any series:
+(1) default in the payment of any installment of interest on any debt securities of such series for 30 days
+after becoming due;
+(2) default in the payment of principal of or premium, if any, on any debt securities of such series when it
+becomes due and payable at its stated maturity, upon optional redemption, upon declaration or
+otherwise;
+(3) default in the performance, or breach, of any covenant or agreement of ours in the applicable Indenture
+with respect to the debt securities of such series (other than a covenant or agreement, a default in the
+performance of which or a breach of which is elsewhere in the applicable Indenture specifically dealt with or that has expressly been included in the applicable Indenture solely for the benefit of a series of
+debt securities other than such series), which continues for a period of 90 days after written notice to us

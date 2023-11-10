@@ -1,0 +1,116 @@
+{
+  "index": "bsg",
+  "document_id": "doc001",
+  "execution_id": "39347934db30432b852b8c213c8b8249",
+  "steps": [
+    "extract",
+    "partition",
+    "summarize",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "remaining_steps": [],
+  "completed_steps": [
+    "extract",
+    "partition",
+    "summarize",
+    "gen_embeddings",
+    "save_embeddings"
+  ],
+  "tags": {
+    "source": [
+      "web"
+    ],
+    "type": [
+      "entertainment"
+    ],
+    "collection": [
+      "bsg",
+      "battlestar galactica"
+    ]
+  },
+  "creation": "2023-10-15T08:42:19.8158853+00:00",
+  "last_update": "2023-10-15T08:42:52.8088256+00:00",
+  "files": [
+    {
+      "id": "d90657770f854372adcb2bbf11b95a59",
+      "name": "TheLastHope.pdf",
+      "size": 56338,
+      "mime_type": "application/pdf",
+      "artifact_type": "Undefined",
+      "processed_by": [
+        "extract"
+      ],
+      "generated_files": {
+        "TheLastHope.pdf.extract.txt": {
+          "id": "04a6ee6f706f42ee914663f8a8f9b30b",
+          "name": "TheLastHope.pdf.extract.txt",
+          "size": 1998,
+          "mime_type": "text/plain",
+          "artifact_type": "ExtractedText",
+          "parent_id": "d90657770f854372adcb2bbf11b95a59",
+          "content_sha256": "",
+          "processed_by": [
+            "extract",
+            "partition",
+            "summarize"
+          ]
+        },
+        "TheLastHope.pdf.partition.0.txt": {
+          "id": "0a8ae03fb264429da1e4d1a2f74573a5",
+          "name": "TheLastHope.pdf.partition.0.txt",
+          "size": 1975,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "parent_id": "d90657770f854372adcb2bbf11b95a59",
+          "content_sha256": "c9ca57544599badcf5e4b69ef1772dfaf4a7a66a4d2542bd008c91fb92fc63d2",
+          "processed_by": [
+            "partition",
+            "gen_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.summarize.0.txt": {
+          "id": "c54e192e999944f99b8832f896b7222f",
+          "name": "TheLastHope.pdf.summarize.0.txt",
+          "size": 519,
+          "mime_type": "text/plain",
+          "artifact_type": "SyntheticData",
+          "parent_id": "d90657770f854372adcb2bbf11b95a59",
+          "content_sha256": "a4a45b794832ce77acd931893f2dca0cf4ad3d33efaf37af375492553dbb5a24",
+          "processed_by": [
+            "summarize",
+            "gen_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "2f534509c6454853b9c2d72134af58ae",
+          "name": "TheLastHope.pdf.partition.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19648,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "d90657770f854372adcb2bbf11b95a59",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        },
+        "TheLastHope.pdf.summarize.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding": {
+          "id": "bcd5e9780bab41b6a6bd8c1e233bf3da",
+          "name": "TheLastHope.pdf.summarize.0.txt.OpenAI.TextEmbedding.OpenAITextEmbeddingGeneration.TODO.text_embedding",
+          "size": 19602,
+          "mime_type": "float[]",
+          "artifact_type": "TextEmbeddingVector",
+          "parent_id": "d90657770f854372adcb2bbf11b95a59",
+          "content_sha256": "",
+          "processed_by": [
+            "gen_embeddings",
+            "save_embeddings"
+          ]
+        }
+      }
+    }
+  ],
+  "custom_data": {},
+  "previous_executions_to_purge": []
+}

@@ -1,0 +1,34 @@
+Indenture that cannot be modified or amended without the consent of the holder of each Note of that series. Upon any
+such waiver, such default will cease to exist, and any event of default arising therefrom will be deemed to have been
+cured, for every purpose of the Indenture; however, no such waiver will extend to any subsequent or other default or
+event of default or impair any rights consequent thereon.
+Discharge, Defeasance and Covenant Defeasance
+We may discharge certain obligations to holders of the Notes of a series that have not already been
+delivered to the trustee for cancellation and that either have become due and payable or will become due and
+payable within one year (or scheduled for redemption within one year) by depositing with the trustee, in trust, funds in
+U.S. dollars in an amount sufficient to pay the entire indebtedness including, but not limited to, the principal and
+premium, if any, and interest to the date of such deposit (if due and payable) or to the maturity thereof or the
+redemption date of the Notes of that series, as the case may be. We may direct the trustee to invest such funds in
+U.S. Treasury securities with a maturity of one year or less or in a money market fund that invests solely in short-term
+U.S. Treasury securities.
+The Indentures provide that we may elect either (1) to defease and be discharged from any and all
+obligations with respect to the Notes of a series (except for, among other things, obligations to register the transfer or
+exchange of the Notes, to replace temporary or mutilated, destroyed, lost or stolen Notes, to maintain an office or
+agency with respect to the Notes and to hold moneys for payment in trust) (“legal defeasance”) or (2) to be released
+from our obligations to comply with the restrictive covenants under the applicable Indenture, and any omission to
+comply with such obligations will not constitute a default or an event of default with respect to the Notes of a series
+and clauses (3) and (6) under the caption “Events of Default” above will no longer be applied (“covenant
+defeasance”). Legal defeasance or covenant defeasance, as the case may be, will be conditioned upon, among other
+things, the irrevocable deposit by us with the trustee, in trust, of an amount in U.S. dollars, or U.S. government
+obligations (as such term is modified below), or both, applicable to the Notes of that series which through the
+scheduled payment of principal and interest in accordance with their terms will provide money in an amount sufficient
+to pay the principal or premium, if any, and interest on the Notes on the scheduled due dates therefor.
+If we effect covenant defeasance with respect to the Notes of any series, the amount in U.S. dollars, or U.S.
+government obligations (as such term is modified below), or both, on deposit with the trustee will be sufficient, in the
+opinion of a nationally recognized firm of independent accountants, to pay amounts due on the Notes of that series at
+the time of the stated maturity but may not be sufficient to pay amounts due on the Notes of that series at the time of
+the acceleration resulting from such event of default. However, we would remain liable to make payment of such
+amounts due at the time of acceleration.
+With respect to the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026
+Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, the term “U.S. government obligations” shall instead mean (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a person
+controlled or supervised by and acting as an agency or instrumentality of the German government the payment of

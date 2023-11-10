@@ -1,0 +1,54 @@
+Apple Inc. | 2021 Form 10-K | 46Employee Stock Purchase Plan
+The Employee Stock Purchase Plan (the “Purchase Plan”) is a shareholder-approved plan under which substantially all
+employees may voluntarily enroll to purchase the Company’s common stock through payroll deductions at a price equal to 85%
+of the lower of the fair market values of the stock as of the beginning or the end of six-month offering periods. An employee’s
+payroll deductions under the Purchase Plan are limited to 10% of the employee’s compensation and employees may not
+purchase more than $25,000 of stock during any calendar year. As of September 25, 2021, approximately 96 million shares were
+reserved for future issuance under the Purchase Plan.
+401(k) Plan
+The Company’s 401(k) Plan is a deferred salary arrangement under Section 401(k) of the Internal Revenue Code. Under the
+401(k) Plan, participating U.S. employees may defer a portion of their pretax earnings, up to the U.S. Internal Revenue Service
+annual contribution limit ($19,500 for calendar year 2021). The Company matches 50% to 100% of each employee’s
+contributions, depending on length of service, up to a maximum of 6% of the employee’s eligible earnings.
+Restricted Stock Units
+A summary of the Company’s RSU activity and related information for 2021, 2020 and 2019, is as follows:
+Number of
+RSUs
+(in thousands)
+Weighted-Average
+Grant Date Fair
+Value Per RSU
+Aggregate
+Fair Value
+(in millions)
+Balance as of September 29, 2018 368,618 $ 33.65
+RSUs granted 147,409 $ 53.99
+RSUs vested (168,350) $ 33.80
+RSUs canceled (21,609) $ 40.71
+Balance as of September 28, 2019 326,068 $ 42.30
+RSUs granted 156,800 $ 59.20
+RSUs vested (157,743) $ 40.29
+RSUs canceled (14,347) $ 48.07
+Balance as of September 26, 2020 310,778 $ 51.58
+RSUs granted 89,363 $ 116.33
+RSUs vested (145,766) $ 50.71
+RSUs canceled (13,948) $ 68.95
+Balance as of September 25, 2021 240,427 $ 75.16 $ 35,324
+The fair value as of the respective vesting dates of RSUs was $19.0 billion, $10.8 billion and $8.6 billion for 2021, 2020 and
+2019, respectively. The majority of RSUs that vested in 2021, 2020 and 2019 were net share settled such that the Company
+withheld shares with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and
+remitted the cash to the appropriate taxing authorities. The total shares withheld were approximately 53 million, 56 million and 59
+million for 2021, 2020 and 2019, respectively, and were based on the value of the RSUs on their respective vesting dates as
+determined by the Company’s closing stock price. Total payments for the employees’ tax obligations to taxing authorities were
+$6.8 billion, $3.9 billion and $3.0 billion in 2021, 2020 and 2019, respectively.
+Share-Based Compensation
+The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated
+Statements of Operations for 2021, 2020 and 2019 (in millions):
+2021 2020 2019
+Share-based compensation expense $ 7,906 $ 6,829 $ 6,068
+Income tax benefit related to share-based compensation expense $ (4,056) $ (2,476) $ (1,967)
+As of September 25, 2021, the total unrecognized compensation cost related to outstanding RSUs and stock options was $13.6
+billion, which the Company expects to recognize over a weighted-average period of 2.5 years.
+Apple Inc. | 2021 Form 10-K | 47Note 10 – Commitments and Contingencies Accrued Warranty and Guarantees
+The following table shows changes in the Company’s accrued warranties and related costs for 2021, 2020 and 2019 (in millions):
+2021 2020 2019

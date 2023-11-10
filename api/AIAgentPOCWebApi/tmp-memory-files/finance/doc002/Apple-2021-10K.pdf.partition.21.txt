@@ -1,0 +1,32 @@
+material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other
+claims.
+Apple Inc. | 2021 Form 10-K | 13The outcome of litigation or government investigations is inherently uncertain. If one or more legal matters were resolved against
+the Company or an indemnified third party in a reporting period for amounts above management’s expectations, the Company’s
+results of operations and financial condition for that reporting period could be materially adversely affected. Further, such an
+outcome can result in significant compensatory, punitive or trebled monetary damages, disgorgement of revenue or profits,
+remedial corporate measures or injunctive relief against the Company, and can require the Company to change its business
+practices and limit the Company’s ability to offer certain products and services, all of which could materially adversely affect the
+Company’s business, results of operations and financial condition.
+While the Company maintains insurance coverage for certain types of claims, such insurance coverage may be insufficient to
+cover all losses or all types of claims that may arise.
+The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to
+potential liabilities, increased costs and other adverse effects on the Company’s business.
+The Company’s global operations are subject to complex and changing laws and regulations on subjects, including antitrust;
+privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; product liability;
+intellectual property ownership and infringement; digital platforms; Internet, telecommunications, and mobile communications;
+media, television, film and digital content; availability of third-party software applications and services; labor and employment;
+anticorruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti–money laundering;
+foreign ownership and investment; tax; and environmental, health and safety, including electronic waste, recycling, and climate
+change.
+Compliance with these laws and regulations is onerous and expensive, increasing the cost of conducting the Company’s global
+operations. Changes to laws and regulations can adversely affect the Company’s business by increasing the Company’s costs,
+limiting the Company’s ability to offer a product or service to customers, requiring changes to the Company’s supply chain and
+business practices or otherwise making the Company’s products and services less attractive to customers. The Company has
+implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no
+assurance the Company’s employees, contractors or agents will not violate such laws and regulations or the Company’s policies
+and procedures. If the Company is found to have violated laws and regulations, it could materially adversely affect the
+Company’s business, reputation, results of operations and financial condition. Regulatory changes and other actions that
+materially adversely affect the Company’s business may be announced with little or no advance notice and the Company may
+not be able to effectively mitigate all adverse impacts from such measures.
+The technology industry, including, in some instances, the Company, is subject to intense media, political and regulatory scrutiny, which exposes the Company to increasing regulation, government investigations, legal actions and penalties.
+From time to time, the Company has made changes to its App Store, including actions taken in response to competition, market

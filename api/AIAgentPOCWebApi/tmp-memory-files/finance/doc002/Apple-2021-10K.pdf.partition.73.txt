@@ -1,0 +1,40 @@
+may at our option redeem, in whole, but not in part, in the case of the 2022 Notes, the 2024 Notes, the 2026 Notes,
+the 2027 Notes, the 3.050% 2029 Notes and the 2042 Notes, the Notes of such series on not less than 30 nor more
+than 60 days’ prior notice,  in the case of the 0.875% 2025 Notes and the 1.375% 2029 Notes, the Notes of such
+series on not less than 15 nor more than 60 days’ notice, and in the case of the 0.000% 2025 Notes and the 2031
+Notes, the Notes of such series on not less than 10 nor more than 60 days’ prior notice, in each case at a redemption
+price equal to 100% of their principal amount, together with interest accrued but unpaid on those Notes to (and, in the
+case of the 0.000% 2025 Notes and the 2031 Notes, but not including) the date fixed for redemption.
+Optional Redemption
+We may redeem the 2022 Notes, the 2024 Notes, the 2026 Notes, the 2027 Notes, the 3.050% 2029 Notes
+and the 2042 Notes at our option, at any time in whole or from time to time in part, at a redemption price equal to the
+greater of:
+• 100% of the principal amount of the Notes to be redeemed; or
+• the sum of the present values of the remaining scheduled payments of principal and interest thereon
+(not including any portion of such payments of interest accrued as of the date of redemption),
+discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable
+Comparable Government Bond Rate (as defined below), plus 5 basis points in the case of the 2022
+Notes, plus 10 basis points in the case of the 2026 Notes, plus 15 basis points in the case of the 2024
+Notes, the 3.050% 2029 Notes and the 2042 Notes and plus 20 basis points in the case of the 2027
+Notes.
+We may redeem the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes and the 2031
+Notes at our option, at any time in whole or from time to time in part, prior to the applicable Par Call Date at a
+redemption price equal to the greater of:
+• 100% of the principal amount of the Notes to be redeemed; or
+• the sum of the present values of the remaining scheduled payments of principal and interest thereon
+assuming that the Notes matured on the applicable Par Call Date (not including any portion of such
+payments of interest accrued as of the date of redemption), discounted to the date of redemption on an
+annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as
+defined below), plus 10 basis points in the case of the 0.000% 2025 Notes, plus 15 basis points in the
+case of the 0.875% 2025 Notes and the 2031 Notes, and 20 basis points in the case of the 2029 Notes.
+“Par Call Date” means (i) with respect to the 0.000% 2025 Notes, August 15, 2025 (three months prior to the
+maturity date of the 0.000% 2025 Notes), (ii) with respect to the 0.875% 2025 Notes, February 24, 2025 (three
+months prior to the maturity date of the 0.875% 2025 Notes), (iii) with respect to the 1.375% 2029 Notes, February
+24, 2029 (three months prior to the maturity date of 1.375% 2029 Notes) and (iv) with respect to the 2031 Notes,
+August 15, 2031 (three months prior to the maturity of the 2031 Notes).
+7If any of the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes or the 2031 Notes are
+redeemed on or after the applicable Par Call Date, the redemption price for such Notes will equal 100% of the
+principal amount of the Notes being redeemed.
+In each case upon redemption of the Notes, we will pay accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Installments of interest on Notes being redeemed that are due and payable on interest payment dates falling
+on or prior to a redemption date shall be payable on the interest payment date to the holders as of the close of

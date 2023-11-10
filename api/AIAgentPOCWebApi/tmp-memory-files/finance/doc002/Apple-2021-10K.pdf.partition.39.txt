@@ -1,0 +1,46 @@
+included in the first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters. The
+Company’s fiscal years 2021, 2020 and 2019 spanned 52 weeks each. Unless otherwise stated, references to particular years,
+quarters, months and periods refer to the Company’s fiscal years ended in September and the associated quarters, months and
+periods of those fiscal years.
+Recently Adopted Accounting Pronouncements
+Financial Instruments – Credit Losses
+At the beginning of the first quarter of 2021, the Company adopted the Financial Accounting Standards Board’s (the “FASB”)
+Accounting Standards Update (“ASU”) No. 2016-13, Financial Instruments – Credit Losses (Topic 326): Measurement of Credit
+Losses on Financial Instruments (“ASU 2016-13”), which modifies the measurement of expected credit losses on certain
+financial instruments. The Company adopted ASU 2016-13 utilizing the modified retrospective transition method. The adoption of
+ASU 2016-13 did not have a material impact on the Company’s condensed consolidated financial statements.
+Advertising Costs
+Advertising costs are expensed as incurred and included in selling, general and administrative expenses.
+Share-Based Compensation
+The Company generally measures share-based compensation based on the closing price of the Company’s common stock on
+the date of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest.
+Further information regarding share-based compensation can be found in Note 9, “Benefit Plans.”
+Earnings Per Share
+The following table shows the computation of basic and diluted earnings per share for 2021, 2020 and 2019 (net income in
+millions and shares in thousands):
+2021 2020 2019
+Numerator:
+Net income $ 94,680 $ 57,411 $ 55,256
+Denominator:
+Weighted-average basic shares outstanding 16,701,272  17,352,119  18,471,336
+Effect of dilutive securities 163,647  176,095  124,315
+Weighted-average diluted shares 16,864,919  17,528,214  18,595,651
+Basic earnings per share $ 5.67 $ 3.31 $ 2.99
+Diluted earnings per share $ 5.61 $ 3.28 $ 2.97
+Apple Inc. | 2021 Form 10-K | 34The Company applies the treasury stock method to determine the dilutive effect of potentially dilutive securities. Potentially
+dilutive securities representing 62 million shares of common stock were excluded from the computation of diluted earnings per
+share for 2019 because their effect would have been antidilutive.
+Cash Equivalents and Marketable Securities
+All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents.
+The Company’s investments in marketable debt securities have been classified and accounted for as available-for-sale. The
+Company classifies its marketable debt securities as either short-term or long-term based on each instrument’s underlying
+contractual maturity date. Unrealized gains and losses on marketable debt securities classified as available-for-sale are
+recognized in other comprehensive income/(loss) (“OCI”).
+The Company’s investments in marketable equity securities are classified based on the nature of the securities and their
+availability for use in current operations. The Company’s marketable equity securities are measured at fair value with gains and
+losses recognized in other income/(expense), net (“OI&E”).
+The cost of securities sold is determined using the specific identification method. Inventories
+Inventories are measured using the first-in, first-out method.
+Property, Plant and Equipment
+Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets,
+which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and

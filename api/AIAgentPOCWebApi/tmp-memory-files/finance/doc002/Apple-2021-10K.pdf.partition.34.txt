@@ -1,0 +1,34 @@
+results.
+Apple Inc. | 2021 Form 10-K | 25Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+Interest Rate and Foreign Currency Risk Management
+The Company regularly reviews its foreign exchange forward and option positions and interest rate swaps, both on a stand-alone
+basis and in conjunction with its underlying foreign currency and interest rate exposures. Given the effective horizons of the
+Company’s risk management activities and the anticipatory nature of the exposures, there can be no assurance these positions
+will offset more than a portion of the financial impact resulting from movements in either foreign exchange or interest rates.
+Further, the recognition of the gains and losses related to these instruments may not coincide with the timing of gains and losses
+related to the underlying economic exposures and, therefore, may adversely affect the Company’s financial condition and
+operating results.
+Interest Rate Risk
+The Company’s exposure to changes in interest rates relates primarily to the Company’s investment portfolio and outstanding
+debt. While the Company is exposed to global interest rate fluctuations, the Company’s interest income and expense are most
+sensitive to fluctuations in U.S. interest rates. Changes in U.S. interest rates affect the interest earned on the Company’s cash,
+cash equivalents and marketable securities and the fair value of those securities, as well as costs associated with hedging and
+interest paid on the Company’s debt.
+The Company’s investment policy and strategy are focused on the preservation of capital and supporting the Company’s liquidity
+requirements. The Company uses a combination of internal and external management to execute its investment strategy and
+achieve its investment objectives. The Company typically invests in highly rated securities, with the primary objective of
+minimizing the potential risk of principal loss. The Company’s investment policy generally requires securities to be investment
+grade and limits the amount of credit exposure to any one issuer. To provide a meaningful assessment of the interest rate risk
+associated with the Company’s investment portfolio, the Company performed a sensitivity analysis to determine the impact a
+change in interest rates would have on the value of the investment portfolio assuming a 100 basis point parallel shift in the yield
+curve. Based on investment positions as of September 25, 2021 and September 26, 2020, a hypothetical 100 basis point
+increase in interest rates across all maturities would result in a $4.1 billion and $3.1 billion incremental decline in the fair market
+value of the portfolio, respectively. Such losses would only be realized if the Company sold the investments prior to maturity.
+As of September 25, 2021 and September 26, 2020, the Company had outstanding floating- and fixed-rate notes with varying
+maturities for an aggregate carrying amount of $118.7 billion and $107.4 billion, respectively. The Company has entered, and in
+the future may enter, into interest rate swaps to manage interest rate risk on its outstanding term debt. Interest rate swaps allow
+the Company to effectively convert fixed-rate payments into floating-rate payments or floating-rate payments into fixed-rate
+payments. Gains and losses on term debt are generally offset by the corresponding losses and gains on the related hedging instrument. A 100 basis point increase in market interest rates would cause interest expense on the Company’s debt as of
+September 25, 2021 and September 26, 2020 to increase by $186 million and $218 million on an annualized basis, respectively.
+Foreign Currency Risk
+In general, the Company is a net receiver of currencies other than the U.S. dollar. Accordingly, changes in exchange rates, and

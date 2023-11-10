@@ -1,0 +1,38 @@
+instead mean (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a person
+controlled or supervised by and acting as an agency or instrumentality of the German government the payment of
+which is fully and unconditionally guaranteed by the German government or the central bank of the German
+government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y)
+13certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations
+described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.
+With respect to the 3.050% 2029 Notes and the 2042 Notes, the term “U.S. government obligations” shall
+instead mean (x) any security that is (i) a direct obligation of the United Kingdom government or (ii) an obligation of a
+person controlled or supervised by and acting as an agency or instrumentality of the United Kingdom government the
+payment of which is fully and unconditionally guaranteed by the United Kingdom government or the central bank of
+the United Kingdom government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the
+issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest
+in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect
+thereof.
+We will be required to deliver to the trustee an opinion of counsel that the deposit and related defeasance
+will not cause the holders and beneficial owners of the Notes of that series to recognize income, gain or loss for
+federal income tax purposes. If we elect legal defeasance, that opinion of counsel must be based upon a ruling from
+the U.S. Internal Revenue Service or a change in law to that effect.
+We may exercise our legal defeasance option notwithstanding our prior exercise of our covenant
+defeasance option.
+Book-Entry and Settlement
+The Notes were issued in book-entry form and are represented by global notes deposited with, or on behalf
+of, a common depositary on behalf of Euroclear and Clearstream, and are registered in the name of the common
+depositary or its nominee. Except as described herein, certificated notes will not be issued in exchange for beneficial
+interests in the global notes.
+Certificated Notes
+Subject to certain conditions, the Notes represented by the global notes are exchangeable for certificated
+notes in definitive form of like tenor, in minimum denominations of €100,000 principal amount and integral multiples of
+€1,000 in excess thereof in the case of the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025
+Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, and in minimum denominations
+of £100,000 principal amount and integral multiples of £1,000 in excess thereof in the case of the 3.050% 2029 Notes
+and the 2042 Notes, if:
+1. the common depositary notifies us that it is unwilling or unable to continue as depositary or if the
+common depositary ceases to be eligible under the applicable Indenture and we do not appoint a
+successor depository within 90 days;
+2. we determine that the Notes will no longer be represented by global securities and execute and deliver
+to the trustee an order to that effect; or 3. an event of default with respect to the Notes will have occurred and be continuing.
+Any Note that is exchangeable as above is exchangeable for certificated notes issuable in authorized

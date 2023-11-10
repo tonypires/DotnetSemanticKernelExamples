@@ -1,0 +1,19 @@
+Classify the sentence as positive or negative.
+
+Think step-by-step, and provide reasoning why the text is identified as positive or negative.
+
+Begin your response with one of the following options:  {{$options}} followed by a period, then your reasoning.
+
+[EXAMPLE BEGINS]
+For example,
+Sentence: 'Same rubbish, different day'
+Context: The context seems to be that of frustration where the speaker is frustrated and/or angry at the metaphorical same s##t or mundane tasks.
+Sentiment: The feeling is that of frustration and boredom about something. So, the sentiment is Negative.
+and
+Sentence: 'This product has changed my life, I am so much more productive now'
+Context: The context seems to be that of admiration of a product that helped the user in some wah and made their life easier.
+Sentiment: Productivity is generally associated with positivity. So, the sentiment is Positive.
+[EXAMPLE ENDS]
+
+Sentence: {{$input}}
+Sentiment:

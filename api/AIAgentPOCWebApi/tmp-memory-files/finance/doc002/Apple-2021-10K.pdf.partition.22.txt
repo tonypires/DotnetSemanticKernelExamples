@@ -1,0 +1,31 @@
+scrutiny, which exposes the Company to increasing regulation, government investigations, legal actions and penalties.
+From time to time, the Company has made changes to its App Store, including actions taken in response to competition, market
+and legal conditions. The Company may make further business changes in the future. New legislative initiatives, such as the
+proposed EU Digital Markets Act, could, if enacted, require further changes. These changes could include how and to what
+extent the Company charges developers for access to its platforms and manages distribution of apps outside of the App Store.
+The Company is also currently subject to antitrust investigations in various jurisdictions around the world, which can result in
+legal proceedings and claims against the Company that could, individually or in the aggregate, have a materially adverse impact
+on the Company’s business, results of operations and financial condition. For example, the Company is the subject of
+investigations in Europe and other jurisdictions relating to App Store terms and conditions. If such investigations result in adverse
+findings against the Company, the Company could be exposed to significant fines and may be required to make changes to its
+App Store business, all of which could materially adversely affect the Company’s business, results of operations and financial
+condition. The Company is also subject to litigation relating to the App Store, which has resulted in changes to the Company’s
+business practices, and may in the future result in further changes.
+Further, the Company has commercial relationships with other companies in the technology industry that are or may become
+subject to investigations and litigation that, if resolved against those other companies, could adversely affect the Company’s
+commercial relationships with those business partners and materially adversely affect the Company’s business, results of
+operations and financial condition. For example, the Company earns revenue from licensing arrangements with other companies
+to offer their search services on the Company’s platforms and apps, and certain of these arrangements are currently subject to
+government investigations and legal proceedings.
+There can be no assurance the Company’s business will not be materially adversely affected, individually or in the aggregate, by
+the outcomes of such investigations, litigation or changes to laws and regulations in the future. Changes to the Company’s
+business practices to comply with new laws and regulations or in connection with other legal proceedings could negatively
+impact the reputation of the Company’s products for privacy and security and otherwise adversely affect the experience for users
+of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor
+market acceptance, reduced demand for products and services, and lost sales.
+Apple Inc. | 2021 Form 10-K | 14The Company’s business is subject to a variety of U.S. and international laws, rules, policies and other obligations
+regarding data protection.
+The Company is subject to federal, state and international laws relating to the collection, use, retention, security and transfer of
+various types of personal information. In many cases, these laws apply not only to third-party transactions, but also restrict
+transfers of personal information among the Company and its international subsidiaries. Several jurisdictions have passed laws in this area, and additional jurisdictions are considering imposing additional restrictions or have laws that are pending. These
+laws continue to develop and may be inconsistent from jurisdiction to jurisdiction. Complying with emerging and changing

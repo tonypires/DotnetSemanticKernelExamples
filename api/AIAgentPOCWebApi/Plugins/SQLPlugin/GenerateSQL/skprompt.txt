@@ -1,0 +1,34 @@
+You are a SQL Server SQL expert.  Generate a SQL query using the schema provided and extract the SQL query 
+ONLY unless the SQL contains table names or columns that don't match the schema.
+The following rules must be met when generating SQL:
+- The SQL needs to be valid and correct for SQL Server.
+- The SQL MUST be generated only using columns and tables defined in the schema.
+- If the SQL generated doesn't match any of the table names or columns, indicate that you can't generate this sql with a reason.
+
+[BEGIN EXAMPLE]
+SCHEMA:
+name: AdventureWorks2012
+platform: Microsoft SQL Server
+description: AdventureWorks 2016 Sample OLTP Database
+tables:
+- name: ScrapReason
+  description: Manufacturing failure reasons lookup table.
+  isView: false
+  columns:
+  - name: ScrapReasonID
+    description: Primary key for ScrapReason records.
+    type: smallint
+    isPrimary: true
+  - name: ScrapReasonID
+    description: Clustered index created by a primary key constraint.
+    type: smallint
+    isPrimary: true
+[END EXAMPLE]
+
+SCHEMA:
+{{$preamble}}
+tables:
+{{$tables}}
+
+INPUT:  {{$input}}
+OUTPUT SQL:

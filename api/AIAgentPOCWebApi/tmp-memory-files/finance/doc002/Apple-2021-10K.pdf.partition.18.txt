@@ -1,0 +1,29 @@
+transactions or impeding the manufacturing and shipping of the Company’s products. These events could materially adversely
+affect the Company’s business, reputation, results of operations and financial condition.
+Losses or unauthorized access to or releases of confidential information, including personal information, could subject
+the Company to significant reputational, financial, legal and operational consequences.
+The Company’s business requires it to use and store confidential information, including personal information, with respect to the
+Company’s customers and employees. The Company devotes significant resources to network and data security, including
+through the use of encryption and other security measures intended to protect its systems and data. But these measures cannot
+provide absolute security, and losses or unauthorized access to or releases of confidential information occur and could materially
+adversely affect the Company’s business, reputation, results of operations and financial condition.
+The Company’s business also requires it to share confidential information with suppliers and other third parties. The Company
+relies on global suppliers that are also exposed to ransomware and other malicious attacks that can disrupt business operations.
+Although the Company takes steps to secure confidential information that is provided to or accessible by third parties working on
+the Company’s behalf, such measures are not always effective and losses or unauthorized access to or releases of confidential
+information occur. Such incidents and other malicious attacks could materially adversely affect the Company’s business,
+reputation, results of operations and financial condition.
+The Company experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis.
+These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal
+business operations, and could, among other things, impair the Company’s ability to attract and retain customers for its products
+and services, impact the price of the Company’s stock, materially damage commercial relationships, and expose the Company to
+litigation or government investigations, which could result in penalties, fines or judgments against the Company. Globally, attacks
+are expected to continue accelerating in both frequency and sophistication with increasing use by actors of tools and techniques
+that are designed to circumvent controls, avoid detection, and remove or obfuscate forensic evidence, all of which hinders the
+Company’s ability to identify, investigate and recover from incidents.
+Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many
+companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and
+the value of the confidential information it creates, owns, manages, stores and processes.
+The Company has implemented systems and processes intended to secure its information technology systems and prevent
+unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of encryption and authentication technologies. As with all companies, these security measures may not be sufficient for all
+eventualities and may be vulnerable to hacking, ransomware attacks, employee error, malfeasance, system error, faulty

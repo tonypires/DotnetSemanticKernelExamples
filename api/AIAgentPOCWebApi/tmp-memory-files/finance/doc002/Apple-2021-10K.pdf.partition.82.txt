@@ -1,0 +1,57 @@
+3. an event of default with respect to the Notes will have occurred and be continuing.
+Any Note that is exchangeable as above is exchangeable for certificated notes issuable in authorized
+denominations and registered in such names as the common depositary shall direct. Subject to the foregoing, a
+global note is not exchangeable, except for a global note of the same aggregate denomination to be registered in the
+name of the common depositary or its nominee.
+The Trustee for the Notes
+The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have
+commercial deposits and custodial arrangements with The Bank of New York Mellon Trust Company, N.A. and its
+affiliates (“BNYM”). We may enter into similar or other banking relationships with BNYM in the future in the normal
+course of business. In addition, BNYM acts as trustee and as paying agent with respect to other debt securities
+issued by us, and may do so for future issuances of debt securities by us as well.
+14Exhibit 21.1
+Subsidiaries of
+Apple Inc.*
+Jurisdiction
+of Incorporation
+Apple Asia Limited Hong Kong
+Apple Asia LLC Delaware, U.S.
+Apple Canada Inc. Canada
+Apple Computer Trading (Shanghai) Co., Ltd. China
+Apple Distribution International Limited Ireland
+Apple Insurance Company, Inc. Arizona, U.S.
+Apple Japan, Inc. Japan
+Apple Korea Limited South Korea
+Apple Operations Europe Limited Ireland
+Apple Operations International Limited Ireland
+Apple Operations Limited Ireland
+Apple Pty Limited Australia
+Apple Sales International Limited Ireland
+Apple South Asia (Thailand) Limited Thailand
+Braeburn Capital, Inc. Nevada, U.S.
+iTunes K.K. Japan
+Limited Liability Company Apple Rus Russia
+* Pursuant to Item 601(b)(21)(ii) of Regulation S-K, the names of other subsidiaries of Apple Inc. are omitted because,
+considered in the aggregate, they would not constitute a significant subsidiary as of the end of the year covered by this
+report.Exhibit 23.1
+Consent of Independent Registered Public Accounting Firm
+We consent to the incorporation by reference in the following Registration Statements:
+(1) Registration Statement (Form S-3 ASR No. 333-228159) of Apple Inc.,
+(2) Registration Statement (Form S-8 No. 333-165214) pertaining to Apple Inc. 2003 Employee Stock Plan and Apple Inc.
+2014 Employee Stock Plan,
+(3) Registration Statement (Form S-8 No. 333-226986) pertaining to Apple Inc. Deferred Compensation Plan,
+(4) Registration Statement (Form S-8 No. 333-203698) pertaining to Apple Inc. Employee Stock Purchase Plan,
+(5) Registration Statement (Form S-8 No. 333-195509) pertaining to Apple Inc. 2014 Employee Stock Plan,
+(6) Registration Statement (Form S-8 No. 333-193709) pertaining to Topsy Labs, Inc. 2007 Stock Plan, and
+(7) Registration Statement (Form S-8 No. 333-60455) pertaining to Apple Inc. Non-Employee Director Stock Plan;
+of our reports dated October 28, 2021 with respect to the consolidated financial statements of Apple Inc., and the effectiveness
+of internal control over financial reporting of Apple Inc., included in this Annual Report on Form 10-K for the year ended
+September 25, 2021.
+/s/ Ernst & Young LLP
+San Jose, California
+October 28, 2021Exhibit 31.1
+CERTIFICATION
+I, Timothy D. Cook, certify that:
+1. I have reviewed this annual report on Form 10-K of Apple Inc.;
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
