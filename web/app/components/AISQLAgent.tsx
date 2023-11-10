@@ -1,5 +1,6 @@
 import {
     Alert,
+    Box,
     Button,
     FormControl,
     Grid,
@@ -10,6 +11,7 @@ import {
     Snackbar,
     Stack,
     TextField,
+    Tooltip,
     Typography,
 } from '@mui/material';
 import { useState } from 'react';
@@ -283,15 +285,27 @@ const AISQLAgent = () => {
                                 label="Describe the SQL statement you would like the AI SQL Agent to generate..."
                                 fullWidth
                             ></TextField>
-                            <Button
-                                disabled={
+                            <Tooltip
+                                title={
                                     !connected || !prompt || !learningComplete
+                                        ? 'Click the Learn button above to prime the agent.'
+                                        : ''
                                 }
-                                variant="contained"
-                                onClick={handleSendPrompt}
                             >
-                                Send
-                            </Button>
+                                <Box display="flex">
+                                    <Button
+                                        disabled={
+                                            !connected ||
+                                            !prompt ||
+                                            !learningComplete
+                                        }
+                                        variant="contained"
+                                        onClick={handleSendPrompt}
+                                    >
+                                        Send
+                                    </Button>
+                                </Box>
+                            </Tooltip>
                         </Stack>
                     </Grid>
                     <Grid item xs={16}>
